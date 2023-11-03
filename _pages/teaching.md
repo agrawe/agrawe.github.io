@@ -4,16 +4,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Vrije Universiteit Amsterdam
-
-### 2024
+### 2024 - Vrije Universiteit Amsterdam
 - Macroeconomics I (undergraduate)
 
-### 2023
+### 2023 - Vrije Universiteit Amsterdam
 - Economic Challenges (undergraduate)
 
-## Free University of Berlin
-
-### 2021
+### 2021 - Free University of Berlin
 - Introduction to Economics (undergraduate)
 - Fundamentals of Microeconomics (undergraduate)
