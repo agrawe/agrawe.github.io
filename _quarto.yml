@@ -35,6 +35,7 @@ format:
       dark: [simplex, simplex_dark.scss]
     css: styles.css
     toc: false
+    page-layout: full
 
 
 
