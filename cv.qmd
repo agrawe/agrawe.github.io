@@ -3,6 +3,9 @@ title: "CV"
 format: 
   html:
     page-layout: article
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex">
 ---
 
 ```{=html}

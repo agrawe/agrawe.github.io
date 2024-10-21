@@ -1,5 +1,10 @@
 ---
 title: "Research"
+format: 
+  html:
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex">
 ---
 
 My research interestes lie in applied microeconomics with a focus on labor economics, the economics of education, and economic inequality.
