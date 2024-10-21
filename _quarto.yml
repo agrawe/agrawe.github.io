@@ -6,7 +6,10 @@ website:
   title: "Alexander Grawe"
   favicon: "/files/favicon-32x32.png"
   search: false
-  google-analytics: "G-ZRYLHTQ3PF"
+  google-analytics: 
+    tracking-id: "G-ZRYLHTQ3PF"
+    storage: none
+    
 
   navbar:
     left:
