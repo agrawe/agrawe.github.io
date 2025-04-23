@@ -1,5 +1,11 @@
 ---
 title: "BSoE & GC Internal Workshop 2025"
+format: 
+  html:
+    page-layout: article
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex">
 ---
 
 We are happy to invite you to the Berlin School of Economics and DIW Graduate Graduate Center Internal Workshop for first-year PhD students. 
@@ -22,7 +28,13 @@ This is a chance to present masters theses, work in progress, reasearch ideas, o
 
 # Program
 
-The program will be available some days before the workshop.
+You can download the program [here](/files/bgiw_program.pdf). Time for presentations and discussion is limited to 20 minutes. Presenters may take questions during presentations or reserve time for questions at the end at their dicretion. 
+
+```{=html}
+<iframe src="/files/_bgiw_program.pdf#toolbar=0," width="100%" height="450" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+```
+
+
 
 ----------
 
