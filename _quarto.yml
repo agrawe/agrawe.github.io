@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - bgiw_program.pdf
+    - Grawe_CV_en.pdf
 
 website:
   title: "Alexander Grawe"
@@ -23,11 +24,14 @@ website:
     
     right:
       - icon: envelope-at
-        href: mailto:alexander.r.grawe@gmail.com
+        href: mailto:agrawe@diw.de
+        target: _blank
       - icon: github
         href: https://github.com/agrawe
+        target: _blank
       - icon: twitter
         href: https://twitter.com/alex_grw
+        target: _blank
 
   page-footer: 
     left:
@@ -37,7 +41,7 @@ website:
 format:
   html:
     theme:
-      light: simplex
+      light: [simplex, simplex_light.scss]
       dark: [simplex, simplex_dark.scss]
     css: styles.css
     toc: false

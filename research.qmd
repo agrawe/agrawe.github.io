@@ -7,7 +7,5 @@ format:
         <meta name="robots" content="noindex">
 ---
 
-My research interestes lie in applied microeconomics with a focus on labor economics, the economics of education, and economic inequality.
-
 ## Work in Progress
 Sibling Spillovers in Education, *with Maximilian Bach & Jan Marcus*.
