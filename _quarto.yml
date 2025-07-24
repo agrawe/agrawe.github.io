@@ -40,6 +40,7 @@ website:
 
 format:
   html:
+    respect-user-color-scheme: true
     theme:
       light: [simplex, simplex_light.scss]
       dark: [simplex, simplex_dark.scss]
