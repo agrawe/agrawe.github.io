@@ -32,6 +32,9 @@ website:
       - icon: twitter
         href: https://twitter.com/alex_grw
         target: _blank
+      - icon: bluesky
+        href: https://bsky.app/profile/agrawe.eu
+        target: _blank
 
   page-footer: 
     left:
