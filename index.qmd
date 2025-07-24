@@ -7,9 +7,17 @@ about:
   image-width: 15rem
 ---
 
-I am a PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de "Berlin School of Economics") and [DIW Berlin](https://www.diw.de/en "DIW Berlin"). I hold an MPhil from [Tinbergen Institute](https://tinbergen.nl/ "Tinbergen Institute") in Amsterdam and a B.Sc. from the [Free University of Berlin](https://www.wiwiss.fu-berlin.de/en/index.html "Free University of Berlin").
-I am an applied microeconomist with an interest in labor, education, and inequality.
+I am a PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de "Berlin School of Economics") and [DIW Berlin](https://www.diw.de/en "DIW Berlin") with an MPhil from [Tinbergen Institute](https://tinbergen.nl/ "Tinbergen Institute") in Amsterdam and a B.Sc. from the [Free University of Berlin](https://www.wiwiss.fu-berlin.de/en/index.html "Free University of Berlin").  
+My interests are in applied microeconomics, specifically in labor, education, and inequality.
 
 If you'd like to chat or grab a coffee, feel free to reach out anytime!
- 
-Contact: agrawe@diw.de
+
+---
+
+**Contact**   
+Alexander Grawe  
+DIW Berlin  
+Anton-Wilhelm-Amo-Straße 58  
+10117 Berlin (Mitte)  
+
+E-Mail: [agrawe@diw.de](mailto:agrawe@diw.de)  
