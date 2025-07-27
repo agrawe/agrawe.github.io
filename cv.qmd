@@ -2,6 +2,7 @@
 title: "CV"
 format: 
   html:
+    respect-user-color-scheme: true
     page-layout: article
     include-in-header:
       text: |
