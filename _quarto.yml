@@ -39,7 +39,7 @@ website:
   page-footer: 
     left:
       - icon: c-circle
-        text: 2026 Alexander Grawe
+        text: 2026 Alexander Grawe<br /> This website was created using Quarto. It is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>
 
 format:
   html:
