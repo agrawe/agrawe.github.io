@@ -20,8 +20,102 @@ The SOEP Brown Bag takes place biweekly at DIW Berlin. Invitations are sent out 
 
 ---------------
 
+<!---
+Winter Semester 2025/2026 ---------------------------------------------------------------------------------
+-->
+
 <details open>
+<summary><h3>Summer Semester 2026</h3></summary>
+
+<!--- -->
+
+###### **June 24, 2026, 12:30 - 1:30 pm -- tbd**
+tbd
+<details>
+  <summary>Abstract</summary>
+  <p>
+tbd
+  </p>
+</details>
+
+<!--- -->
+
+###### **June 10, 2026, 12:30 - 1:30 pm -- Alexander Busch (MIT)**
+The effect of Right to Work on unions and unionization (with Nidhaanjit Jain and Sebastian Puerta)
+<details>
+  <summary>Abstract</summary>
+  <p>
+tbd
+  </p>
+</details>
+
+<!--- -->
+
+###### **May 27, 2026, 12:30 - 1:30 pm -- Tino Gnambs (Leibniz Institute for Educational Trajectories)**
+Methodological Challenges in Cross-Cohort Comparisons of Educational Achievement
+<details>
+  <summary>Abstract</summary>
+  <p>
+tbd
+  </p>
+</details>
+
+<!--- -->
+
+###### **May 13, 2026, 12:30 - 1:30 pm -- Katja Schmidt (HU Berlin)**
+tbd
+<details>
+  <summary>Abstract</summary>
+  <p>
+tbd
+  </p>
+</details>
+
+<!--- -->
+
+###### **[Special Brown Bag] May 6, 2026, 12:30 - 1:30 pm -- Roy Kouwenberg (Mahidol University)**
+tbd
+<details>
+  <summary>Abstract</summary>
+  <p>
+tbd
+  </p>
+</details>
+
+<!--- -->
+
+###### **April 29, 2026, 12:30 - 1:30 pm -- Lorena Gril (FU Berlin)**
+tbd
+<details>
+  <summary>Abstract</summary>
+  <p>
+    tbd
+  </p>
+</details>
+
+<!--- -->
+
+###### **April 15, 2026, 12:30 - 1:30 pm -- Dimitria Freitas (HU Berlin & Thünen-Institut)**
+Public Sector Relocation and Regional Development in Germany
+<details>
+  <summary>Abstract</summary>
+  <p>
+As regional economic disparities within countries grow, governments are increasingly experimenting with public employment reallocation as a place-based policy. In this paper, I estimate the causal effect on local labor markets of a German policy that relocated about 3,000 public sector jobs to lagging regions. Using novel data on 60 agency relocations from 2015–2025, I estimate employment and population effects for receiving and sending municipalities and use the results to discipline a quantitative spatial model that simulates spatial reallocation and welfare effects. I find that relocations increased private employment shares by up to 2.3% (1.3 percentage points), reduced unemployment by up to 11.9% (0.33 percentage points), and raised population by 1.6%, implying a public-to-private jobs multiplier of 1.08 in receiving locations. Sending locations also see an increase in private sector employment that is rationalized in the model by within-private-sector spillovers exceeding public-to-private sector spillovers.
+  </p>
+</details>
+</details>
+
+
+<!---
+Winter Semester 2025/2026 ---------------------------------------------------------------------------------
+-->
+
+
+
+<details>
 <summary><h3>Winter Semester 2025/2026</h3></summary>
+
+<!--- -->
 
 ###### **February 4, 2026, 12:30 - 1:30 pm -- Cara Ebert (RWI Essen)**
 Improving Migration Outcomes: A Mentoring Experiment and its Network Effects in Senegal *(with Bernd Beber, Zara Riaz and Juni Singh)*
@@ -32,6 +126,7 @@ In this paper we study the effectiveness of a randomized migration mentoring pro
   </p>
 </details>
 
+<!--- -->
 
 ###### **[CANCELLED] ~~January 21, 2026, 12:30 - 1:30 pm -- Dimitria Freitas (TU Dresden)~~**
 The Effect of Public Sector Relocations on Regional Development in Germany
@@ -42,6 +137,7 @@ Regional economic disparities within countries have become increasingly large, o
   </p>
 </details>
 
+<!--- -->
 
 ###### **January 7, 2026, 12:30 - 1:30 pm -- Elena Matheny (European University Viadrina)**
 Conditional Permanent Residency and Refugee Integration: Evidence from Germany's 2016 Reform
@@ -52,6 +148,7 @@ This study examines the 2016 reform of Germany's Residence Act that intended to 
   </p>
 </details>
 
+<!--- -->
 
 ###### **December 10, 2025, 12:30 - 1:30 pm -- Nhat An Trinh (WZB)**
 Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality *(with Daria Tisch and Manuel Schechtl)*
@@ -62,6 +159,7 @@ While inequalities in inter-vivos gifts and bequests between families are widely
   </p>
 </details>
 
+<!--- -->
 
 ###### **November 26, 2025, 12:30 - 1:30 pm -- Alexander Bertermann (ifo Institut)**
 Growing Up with Disasters: Early Memories and the Origins of Patience
@@ -72,6 +170,7 @@ This paper examines the long-term impact of childhood exposure to aggregate shoc
   </p>
 </details>
 
+<!--- -->
 
 ###### **November 12, 2025, 12:30 - 1:30 pm -- Ruta Yemane (DeZIM-Institut)**
 The Power of Stereotypes and how they influence labour market outcomes *(with Susanne Veit and Johanna Hildebrandt)*
@@ -82,6 +181,7 @@ In this paper, we draw on two key models of stereotyping, the Stereotype Content
   </p>
 </details>
 
+<!--- -->
 
 ###### **October 29, 2025, 12:30 - 1:30 pm -- Mariel Leonard (DIW Berlin / SOEP)**
 Introduction to systematic and scoping literature reviews
@@ -94,6 +194,7 @@ I will present an introduction to systematic and scoping reviews, including:
   </p>
 </details>
 
+<!--- -->
 
 ###### **October 15, 2025, 12:30 - 1:30 pm -- Kamila Cygan-Rehm (TU Dresden)**
 Timing of School Entry and Personality Traits in Adulthood *(with Anton Barabasch and Andreas Leibing)*
@@ -104,6 +205,7 @@ This paper investigates the long-run consequences of a later school entry for pe
   </p>
 </details>
 
+<!--- -->
 
 ###### **October 8, 2025, 12:30 - 1:30 pm -- Regina Riphahn (FAU Erlangen-Nürnberg)**
 Occupational recognition of refugees: Effects on labor market outcomes, remittances, and life satisfaction *(with Selina Gangl and Matthias Collischon)*
