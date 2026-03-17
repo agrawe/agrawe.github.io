@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.8)  17 MAR 2026 11:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.8)  17 MAR 2026 11:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -343,15 +343,15 @@ Package rerunfilecheck Info: File `Grawe_CV_en.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10981 strings out of 468133
- 180007 string characters out of 5440776
+ 10982 strings out of 468133
+ 180015 string characters out of 5440776
  599516 words of memory out of 5000000
- 39459 multiletter control sequences out of 15000+600000
+ 39460 multiletter control sequences out of 15000+600000
  641282 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,11n,93p,373b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/agrawe/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/agrawe/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/agrawe/AppData/Roaming/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Grawe_CV_en.pdf (2 pages, 246428 bytes).
+Output written on Grawe_CV_en.pdf (2 pages, 246695 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
