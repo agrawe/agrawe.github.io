@@ -85,11 +85,11 @@ tbd
 <!--- -->
 
 ###### **April 29, 2026, 12:30 - 1:30 pm -- Lorena Gril (FU Berlin)**
-tbd
+Measurement error models on anonymized georeferenced data
 <details>
   <summary>Abstract</summary>
   <p>
-    tbd
+    Georeferenced data are often anonymized for data protection reasons. This is done either by aggregating the data into larger spatial units (e.g., higher-level administrative units or grids with larger cell sizes) or by using stochastic methods to deliberately overlay the original coordinates. These methods significantly distort the data and associated variables, making further modeling steps more difficult and hindering the identification of local clusters on maps. Conventional analytical methods often do not account for the anonymization process and treat anonymized coordinates as actual coordinates. However, a statistical measurement error model can enable a considerably more efficient analysis by explicitly accounting for the influence of anonymization. This presentation will introduce the results of the developed methods, including empirical findings on the regional distributions of income tax payers in Berlin and the population living below the poverty line in Bangladesh. 
   </p>
 </details>
 
