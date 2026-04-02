@@ -40,6 +40,17 @@ tbd
 
 <!--- -->
 
+###### **[Special Brown Bag] June 11, 2026, 12:30 - 1:30 pm -- Pietro Biroli (University of Bologna)**
+tbd
+<details>
+  <summary>Abstract</summary>
+  <p>
+tbd
+  </p>
+</details>
+
+<!--- -->
+
 ###### **June 10, 2026, 12:30 - 1:30 pm -- Alexander Busch (MIT)**
 The effect of Right to Work on unions and unionization (with Nidhaanjit Jain and Sebastian Puerta)
 <details>
