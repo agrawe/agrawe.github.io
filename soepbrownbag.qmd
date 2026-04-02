@@ -38,6 +38,8 @@ tbd
   </p>
 </details>
 
+<div style="margin-bottom: 1rem;"></div>
+
 <!--- -->
 
 ###### **[Special Brown Bag] June 11, 2026, 12:30 - 1:30 pm -- Pietro Biroli (University of Bologna)**
@@ -48,6 +50,8 @@ tbd
 tbd
   </p>
 </details>
+
+<div style="margin-bottom: 1rem;"></div>
 
 <!--- -->
 
@@ -60,6 +64,8 @@ tbd
   </p>
 </details>
 
+<div style="margin-bottom: 1rem;"></div>
+
 <!--- -->
 
 ###### **May 27, 2026, 12:30 - 1:30 pm -- Tino Gnambs (Leibniz Institute for Educational Trajectories)**
@@ -70,6 +76,8 @@ Methodological Challenges in Cross-Cohort Comparisons of Educational Achievement
 tbd
   </p>
 </details>
+
+<div style="margin-bottom: 1rem;"></div>
 
 <!--- -->
 
@@ -82,6 +90,8 @@ tbd
   </p>
 </details>
 
+<div style="margin-bottom: 1rem;"></div>
+
 <!--- -->
 
 ###### **[Special Brown Bag] May 6, 2026, 12:30 - 1:30 pm -- Roy Kouwenberg (Mahidol University)**
@@ -93,6 +103,8 @@ tbd
   </p>
 </details>
 
+<div style="margin-bottom: 1rem;"></div>
+
 <!--- -->
 
 ###### **April 29, 2026, 12:30 - 1:30 pm -- Lorena Gril (FU Berlin)**
@@ -103,6 +115,8 @@ Measurement error models on anonymized georeferenced data
     Georeferenced data are often anonymized for data protection reasons. This is done either by aggregating the data into larger spatial units (e.g., higher-level administrative units or grids with larger cell sizes) or by using stochastic methods to deliberately overlay the original coordinates. These methods significantly distort the data and associated variables, making further modeling steps more difficult and hindering the identification of local clusters on maps. Conventional analytical methods often do not account for the anonymization process and treat anonymized coordinates as actual coordinates. However, a statistical measurement error model can enable a considerably more efficient analysis by explicitly accounting for the influence of anonymization. This presentation will introduce the results of the developed methods, including empirical findings on the regional distributions of income tax payers in Berlin and the population living below the poverty line in Bangladesh. 
   </p>
 </details>
+
+<div style="margin-bottom: 1rem;"></div>
 
 <!--- -->
 
@@ -137,6 +151,8 @@ In this paper we study the effectiveness of a randomized migration mentoring pro
   </p>
 </details>
 
+<div style="margin-bottom: 1rem;"></div>
+
 <!--- -->
 
 ###### **[CANCELLED] ~~January 21, 2026, 12:30 - 1:30 pm -- Dimitria Freitas (TU Dresden)~~**
@@ -147,6 +163,8 @@ The Effect of Public Sector Relocations on Regional Development in Germany
 Regional economic disparities within countries have become increasingly large, often surpassing the disparities observed between countries. To address regional inequality, governments have been turning away from standard subsidies and are experimenting with public employment reallocation as a place-based policy. This paper estimates the causal effect of public employment reallocation on local labor markets. I study the Heimatstrategie, which relocates around 3,000 public sector jobs from Munich to economically lagging regions in Bavaria, Germany. Using novel data on 60 agency relocations between 2015 and 2025, I exploit the government’s quantitative selection criteria for receiving municipalities and implement a long-differences design comparing treated Bavarian municipalities to Mahalanobis-matched control municipalities in other German states. My estimates show that relocations increased private sector employment shares by up to 2.3%, reduced unemployment rates by up to 11.9%, and increased local population by up to 1.6% without harming sending locations. These results correspond to a public-to-private jobs multiplier of 1.08. To assess general equilibrium effects of the relocation program, I implement a quantitative spatial model with a two-sector (public and private) framework, showing modest increases in amenities through the relocation counterfactual and negligible welfare effects.
   </p>
 </details>
+
+<div style="margin-bottom: 1rem;"></div>
 
 <!--- -->
 
@@ -159,6 +177,8 @@ This study examines the 2016 reform of Germany's Residence Act that intended to 
   </p>
 </details>
 
+<div style="margin-bottom: 1rem;"></div>
+
 <!--- -->
 
 ###### **December 10, 2025, 12:30 - 1:30 pm -- Nhat An Trinh (WZB)**
@@ -169,6 +189,8 @@ Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and 
 While inequalities in inter-vivos gifts and bequests between families are widely recognized as key drivers of wealth inequality, less is known about the unequal transmission of wealth within families. This study addresses this gap by asking: (1) To what extent are estates unequally divided? (2) How do estate portfolios, primogeniture, and patrilineality shape unequal estate division? (3) What is the impact of unequal estate division on inheritance inequality? Analyzing administrative data from the German inheritance and gift tax register (2007–2020), we find that 38 percent of estates are unequally divided between children. Unequal division is most pronounced at the top of the distribution and when business assets dominate the estate. Sons benefit rather than firstborn children, reflecting patrilineal practices. Overall inheritance inequality would be reduced by 8 percent if estates were divided equally. These findings shed novel light on how the family generates inequalities both within and across generations.
   </p>
 </details>
+
+<div style="margin-bottom: 1rem;"></div>
 
 <!--- -->
 
@@ -181,6 +203,8 @@ This paper examines the long-term impact of childhood exposure to aggregate shoc
   </p>
 </details>
 
+<div style="margin-bottom: 1rem;"></div>
+
 <!--- -->
 
 ###### **November 12, 2025, 12:30 - 1:30 pm -- Ruta Yemane (DeZIM-Institut)**
@@ -191,6 +215,8 @@ The Power of Stereotypes and how they influence labour market outcomes *(with Su
 In this paper, we draw on two key models of stereotyping, the Stereotype Content Model (SCM) and the Agency-Beliefs-Communion (ABC) to study whether stereotypes associated to ethnic minorities predict discrimination in hiring in the German labor market. In study 1, we examined the content of the stereotypes that Germans ascribe to 38 ethnic minorities, drawing on a large-scale online survey (N=2,300). We instructed respondents to rate ethnic minorities with respect to different adjectives reflecting the warmth, competence/agency, and progressive beliefs dimensions of the SCM and ABC model. In study 2, we used the group-level ethnic stereotypes found in study 1 to predict differences in employer responses to job applications. We drew on a large-scale field experiment on hiring discrimination, a so-called correspondence test, conducted in Germany (N=2,700 employer responses). The ethnic background of the fictitious job candidates was randomly varied in this field experiment, which allowed us to investigate how well ethnic stereotypes can explain ethnic hierarchies in hiring and which stereotype content dimensions mattered the most in employers’ evaluations. Overall, our results suggest that stereotypes about beliefs play a crucial role in the assessment of ethnic origin groups. Stereotypical progressiveness is the best predictor for ethnic discrimination in real-world hiring decisions. Interestingly, progressive beliefs are also the strongest predictor of perceived similarity to the Germany host society. By contrast, competence/agency and warmth stereotypes fail to predict hiring discrimination.
   </p>
 </details>
+
+<div style="margin-bottom: 1rem;"></div>
 
 <!--- -->
 
@@ -205,6 +231,8 @@ I will present an introduction to systematic and scoping reviews, including:
   </p>
 </details>
 
+<div style="margin-bottom: 1rem;"></div>
+
 <!--- -->
 
 ###### **October 15, 2025, 12:30 - 1:30 pm -- Kamila Cygan-Rehm (TU Dresden)**
@@ -215,6 +243,8 @@ Timing of School Entry and Personality Traits in Adulthood *(with Anton Barabasc
 This paper investigates the long-run consequences of a later school entry for personality traits. For identification, we exploit the statutory cutoff rules for school enrollment in Germany within a regression discontinuity design. We find that relatively older school starters have persistently lower levels of neuroticism in adulthood. This effect is entirely driven by women, which has important implications for gender gaps in the labor market, as women typically score significantly higher on neuroticism at all stages of life, which puts them at a disadvantage. Our results suggest that family decisions regarding compliance with enrollment cutoffs may have lasting implications for gender gaps in socio-emotional skills.
   </p>
 </details>
+
+<div style="margin-bottom: 1rem;"></div>
 
 <!--- -->
 
