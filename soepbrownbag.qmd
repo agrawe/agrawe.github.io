@@ -68,7 +68,7 @@ tbd
 
 <!--- -->
 
-###### **May 27, 2026, 12:30 - 1:30 pm -- Tino Gnambs (Leibniz Institute for Educational Trajectories)**
+###### **May 27, 2026, 12:30 - 1:30 pm --Timo Gnambs (Leibniz Institute for Educational Trajectories)**
 Methodological Challenges in Cross-Cohort Comparisons of Educational Achievement
 <details>
   <summary>Abstract</summary>
