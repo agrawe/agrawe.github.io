@@ -43,11 +43,11 @@ tbd
 <!--- -->
 
 ###### **[Special Brown Bag] June 11, 2026, 12:30 - 1:30 pm -- Pietro Biroli (University of Bologna)**
-tbd
+The biological trace of public health policies: how Medicaid improved epigenetic aging in adolescence
 <details>
   <summary>Abstract</summary>
   <p>
-tbd
+Public health insurance for U.S. children has expanded dramatically through Medicaid and the Children’s Health Insurance Program (CHIP), yet the biological mechanisms linking these policies to long-run health remain poorly understood. We test whether childhood eligibility for Medicaid/CHIP causally affects epigenetic aging measures. Using longitudinal epigenetic data from the Fragile Families and Child Wellbeing Study (FFCWS), we link individuals to state–year–age eligibility rules and exploit policy-driven variation in Medicaid/CHIP generosity using a simulated-instrument design. Results indicate that an additional wave of Medicaid/CHIP eligibility reduces GrimAge epigenetic age acceleration by 0.089 SD at age 9 and 0.059 SD at age 15. Slower epigenetic aging at these time points translated into better health and developmental outcomes at age 22, supporting the hypothesis that early economic conditions can influence the developing epigenome and persist into adulthood. These findings provide causal evidence that expanding childhood health insurance coverage can slow biological aging, highlighting the potential of epigenetic biomarkers for policy evaluation in younger, healthier populations, where cellular-level changes may take years to manifest phenotypically.
   </p>
 </details>
 
