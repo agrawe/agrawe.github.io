@@ -29,7 +29,7 @@ Winter Semester 2025/2026 ------------------------------------------------------
 
 <!--- -->
 
-###### **June 24, 2026, 12:30 - 1:30 pm -- tbd**
+###### **June 24, 2026, 12:30 - 1:30 pm -- Katja Schmidt (HU Berlin)**
 tbd
 <details>
   <summary>Abstract</summary>
@@ -81,7 +81,7 @@ tbd
 
 <!--- -->
 
-###### **May 13, 2026, 12:30 - 1:30 pm -- Katja Schmidt (HU Berlin)**
+###### **May 13, 2026, 12:30 - 1:30 pm -- tbd**
 tbd
 <details>
   <summary>Abstract</summary>
@@ -95,11 +95,12 @@ tbd
 <!--- -->
 
 ###### **[Special Brown Bag] May 6, 2026, 12:30 - 1:30 pm -- Roy Kouwenberg (Mahidol University)**
-tbd
+Measuring Ambiguity Attitudes Reliably in Surveys
 <details>
   <summary>Abstract</summary>
   <p>
-tbd
+This seminar introduces ambiguity, explains why it matters in economics, and discusses how ambiguity attitudes are typically measured in empirical research. Ambiguity plays an important role in decision-making, as most situations in life involve unknown outcomes or probabilities. However, people’s attitudes toward ambiguity are hard to measure precisely, as standard measures based on incentivized choice tasks exhibit substantial noise. This noise makes it difficult to identify stable individual differences in ambiguity aversion and weakens these measures' ability to explain relevant economic outcomes. We illustrate these issues using new data from two large population surveys in Germany and the US, each collected in two waves, applying an IV methodology to correct for measurement error. We then provide preliminary evidence that survey questions can be used to develop a short ambiguity aversion scale that is more stable and at least as predictive of outcomes theoretically linked to ambiguity, such as equity ownership and entrepreneurship.
+
   </p>
 </details>
 
