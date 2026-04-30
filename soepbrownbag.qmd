@@ -30,11 +30,16 @@ Winter Semester 2025/2026 ------------------------------------------------------
 <!--- -->
 
 ###### **June 24, 2026, 12:30 - 1:30 pm -- Katja Schmidt (HU Berlin)**
-tbd
+The Unequal Distribution of Bitterness: Tracing Ressentiment in Times of Change
 <details>
   <summary>Abstract</summary>
   <p>
-tbd
+Modern democracies are undergoing multiple, overlapping transformations, driven by globalization, digitalization, migration, inequality, and climate change. While some adapt with openness, others experience what Mau et al. (2023) term Veränderungserschöpfung – change fatigue: the sense that “too much is changing, too fast, and all at once.” This paper examines whether and how such fatigue translates into a more corrosive emotional response: ressentiment.
+
+Unlike ordinary resentment, ressentiment denotes a persistent and socially embedded form of grievance that emerges when perceived loss or exclusion cannot be effectively acted upon. It involves the moral reinterpretation of powerlessness and redirects frustration into blame and symbolic hostility, thereby translating structural change into moral conflict.
+
+Drawing on original survey data from Germany (N = 2,500; fielded 2025), this study analyzes how perceptions of societal transformation and experiences of change fatigue relate to ressentiment, and how these patterns are distributed across social groups. By linking subjective experiences of change to affective and moralized responses, the paper sheds light on the emotional underpinnings of grievance politics and democratic distrust.
+
   </p>
 </details>
 
@@ -56,11 +61,11 @@ Public health insurance for U.S. children has expanded dramatically through Medi
 <!--- -->
 
 ###### **June 10, 2026, 12:30 - 1:30 pm -- Alexander Busch (MIT)**
-The effect of Right to Work on unions and unionization (with Nidhaanjit Jain and Sebastian Puerta)
+Union Responses to Revenue Shocks: Evidence from Right-to-Work Laws in the US (with Nidhaanjit Jain and Sebastian Puerta)
 <details>
   <summary>Abstract</summary>
   <p>
-tbd
+Unions decide how to allocate their resources to organise new workers and to benefit existing members. While there is a growing literature studying the aggregate effects of shocks to union power, little is known about how individual unions change their behaviour in response to these shocks. We illustrate the importance of accounting for union equilibrium responses when studying the impact of shocks to union power. We do this in the context of state-level Right-to-Work (RTW) laws in the US. RTW makes it optional for workers to pay union dues even when they benefit from coverage, thereby creating a freeriding problem and lowering union resources. Using the introduction of RTW laws in five states and a novel dataset that links a union’s exposure to these laws to its financial performance, we use an event-study approach to show that unions substitute away from affected states towards non-affected states. Unions also change the composition of workers they represent by shifting away from service sector firms where the freeriding problem is likely to be worse due to high labour turnover. Through this substitution, they blunt losses to revenues. Our results 1) show how shocks to union power can lead to a geographic and sectoral reallocation of union jobs, 2) illustrate the importance of revenue collection in the union objective function, and 3) highlight how union responses can constitute SUTVA violations in the existing literature on RTW laws.
   </p>
 </details>
 
