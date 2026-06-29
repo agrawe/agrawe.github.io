@@ -1,6 +1,6 @@
-PWD c:\Users\agrawe\OneDrive\Uni\Website\agrawe.github.io\cv
+PWD c:\Users\agrawe\OneDrive\Uni\Website\agrawe.github.io\docs\cv
 INPUT C:\Users\agrawe\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\agrawe\OneDrive\Uni\Website\agrawe.github.io\cv\Grawe_CV_en.tex
+INPUT c:\Users\agrawe\OneDrive\Uni\Website\agrawe.github.io\docs\cv\Grawe_CV_en.tex
 OUTPUT Grawe_CV_en.log
 INPUT .\cv.cls
 INPUT cv.cls
@@ -153,10 +153,6 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-ot1.tfm
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-ot1.tfm
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-ot1.tfm
-INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\tex\latex\libertine\ts1linuxlibertinet-tlf.fd
-INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\tex\latex\libertine\ts1linuxlibertinet-tlf.fd
-INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\tex\latex\libertine\ts1linuxlibertinet-tlf.fd
-INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-ts1.tfm
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineT-tlf-ot1.vf
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-ot1--base.tfm
 INPUT C:\Users\agrawe\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
@@ -171,9 +167,6 @@ INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLiber
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTI-tlf-ot1.vf
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-ot1--base.tfm
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertine\lbtn_kijugd.enc
-INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTI-tlf-ts1.vf
-INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-ts1--base.tfm
-INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertine\lbtn_u7qtuy.enc
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-ot1.tfm
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineT-tlf-ot1.vf
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-ot1--base.tfm
