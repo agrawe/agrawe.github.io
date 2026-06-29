@@ -31,7 +31,7 @@
 \setlength{\parindent}{0ex} 
 
 % Line spacing
-\setstretch{1.15}
+\setstretch{1}
 
 % Set offset to each header and footer
 \fancyhfoffset{0em}

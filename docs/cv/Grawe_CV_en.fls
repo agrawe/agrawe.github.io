@@ -153,6 +153,8 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-ot1.tfm
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-ot1.tfm
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-ot1.tfm
+INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-ot1.tfm
+INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-ot1.tfm
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineT-tlf-ot1.vf
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-ot1--base.tfm
 INPUT C:\Users\agrawe\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
@@ -167,6 +169,10 @@ INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLiber
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTI-tlf-ot1.vf
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-ot1--base.tfm
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertine\lbtn_kijugd.enc
+INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineT-tlf-ot1.vf
+INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-ot1--base.tfm
+INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTI-tlf-ot1.vf
+INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-ot1--base.tfm
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-ot1.tfm
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineT-tlf-ot1.vf
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-ot1--base.tfm
@@ -181,3 +187,5 @@ INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinLib
 INPUT C:\Users\agrawe\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinLibertineTI.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
