@@ -1,13 +1,13 @@
 ---
 title: "Alexander Grawe"
 image: files/photo.jpg
-about: 
+about:
   template: solana
   image-shape: round
   image-width: 15rem
 ---
 
-I am a PhD candidate at the [Berlin School of Economics](https://berlinschoolofeconomics.de "Berlin School of Economics") and [DIW Berlin](https://www.diw.de/en "DIW Berlin"). I studied Economics at [Tinbergen Institute](https://tinbergen.nl/ "Tinbergen Institute") in Amsterdam (MPhil) and [Freie Universität Berlin](https://www.wiwiss.fu-berlin.de/en/index.html "Freie Universität Berlin") (B.Sc.).  
+I am a PhD candidate at the [Berlin School of Economics](https://berlinschoolofeconomics.de "Berlin School of Economics") and [DIW Berlin](https://www.diw.de/en "DIW Berlin"). I studied Economics at [Tinbergen Institute](https://tinbergen.nl/ "Tinbergen Institute") in Amsterdam (MPhil) and [Freie Universität Berlin](https://www.wiwiss.fu-berlin.de/en/index.html "Freie Universität Berlin") (B.Sc.).
 
 I consider myself an applied microeconomist and work on topics in education, labor, political economy, and inequality.
 
@@ -16,10 +16,34 @@ If you'd like to chat or grab a coffee, please reach out anytime!
 
 ---
 
-**Contact**   
-Alexander Grawe  
-DIW Berlin  
-Anton-Wilhelm-Amo-Straße 58  
-10117 Berlin (Mitte)  
+#### News
 
-E-Mail: [agrawe@diw.de](mailto:agrawe@diw.de)  
+::: news-feed
+
+::: news-item
+**2nd Berlin PhD Conference in Economics**  July 6 - 8, 2026\
+I am co-organizing a conference. Check the [website](https://berlinschoolofeconomics.de/event-details/2nd-berlin-phd-conference-in-economics) and [program](https://drive.google.com/file/d/1QRErZ9A_ql92iB8XEfeTrCGWbQ41Q5kb/view?usp=sharing) for more info.
+:::
+
+::: news-item
+**Summer School on Socioeconomic Opportunity and Inequality** June 29 - July 3, 2026, Milan\
+I attended a [summer school](https://stonecenter.uchicago.edu/events/summer-school-on-socioeconomic-opportunity-and-inequality-at-the-dondena-centre-for-research-on-social-dynamics-and-public-policy/) organized by the Stone Center at U Chicago and Dondena Research Center.
+:::
+
+::: news-item
+**BeNA Summer Workshop** May 29, 2026\
+I co-organized a workshop. Check out the [website](https://labor-research.net/2026/06/02/bena-summer-workshop-05-2026/) and [program](/files/2026_BeNaWorkshop_Program.pdf){target="_blank"}.
+:::
+
+:::
+
+
+---
+
+**Contact**\
+Alexander Grawe\
+DIW Berlin\
+Anton-Wilhelm-Amo-Straße 58\
+10117 Berlin (Mitte)
+
+E-Mail: [agrawe@diw.de](mailto:agrawe@diw.de)

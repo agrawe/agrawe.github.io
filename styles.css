@@ -23,3 +23,20 @@ details > p {
 details {
   margin-bottom: 0rem;
 }
+
+/* News feed */
+.news-feed {
+  margin-top: 0.25rem;
+}
+
+.news-item {
+  border-left: 3px solid #973838;
+  padding: 0.25rem 0.75rem;
+  margin-bottom: 0.6rem;
+  font-size: 0.93em;
+}
+
+.news-item p {
+  margin: 0.15rem 0 0;
+  color: var(--bs-secondary-color, #6c757d);
+}
