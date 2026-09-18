@@ -21,15 +21,141 @@ The SOEP Brown Bag takes place biweekly at DIW Berlin. Invitations are sent out 
 ---------------
 
 <!---
-Winter Semester 2025/2026 ---------------------------------------------------------------------------------
+Winter Semester 2026/2027 ---------------------------------------------------------------------------------
 -->
 
 <details open>
+<summary><h3>Winter Semester 2026/2027</h3></summary>
+
+<!--- -->
+
+###### **February 10, 2027, 12:30 - 1:30 pm -- [Juan Palomino](https://sites.google.com/site/juancpalomino/home) (Universidad Complutense Madrid)**
+tbd
+<details>
+  <summary>Abstract</summary>
+  <p>
+tbd
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **January 27, 2027, 12:30 - 1:30 pm -- tbd**
+tbd
+<details>
+  <summary>Abstract</summary>
+  <p>
+tbd
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **January 13, 2027, 12:30 - 1:30 pm -- [Mariia Vasiakina](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/mariia_vasiakina_4378/) (Max Planck Institute for Demographic Research)**
+tbd
+<details>
+  <summary>Abstract</summary>
+  <p>
+tbd
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **December 16, 2026, 12:30 - 1:30 pm -- [Daniel Nüst](https://nordholmen.net/) (TU Dresden)**
+Reproducible workflows in scholarly communication with CODECHECK
+<details>
+  <summary>Abstract</summary>
+  <p>
+CODECHECK (<a href="https://codecheck.org.uk/">https://codecheck.org.uk/</a>) provides an approach for independent execution of computations underlying research articles. At one point during the publication process, one reviewer - the codechecker - certifies that they were able to execute relevant parts of a computational workflow. This certificate becomes part of the public record. With over 130 certificates contributed by over 60 codecheckers, the CODECHECK initiative demonstrates how a minimal reproduction positively influences the openness of research within the established publishing practices. At the same time, the project works towards a cultural change in academia to work more openly and to recognise more diverse research outputs and contributions, e.g., by contributing works and checks to Wikidata, by developing a plugin for journal platform for easier integration of CODECHECK, or by engaging early-career researchers and other experts in data or software in peer review. This talk presents the CODECHECK principles and workflow, showcases the Reproducible AGILE effort that changed how the GIScience community changed a conference, demonstrates institutional codechecking, and discusses how novel AI tools can meaningfully support reproducible research and reproductions.
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **December 2, 2026, 12:30 - 1:30 pm -- tbd**
+tbd
+<details>
+  <summary>Abstract</summary>
+  <p>
+tbd
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **November 18, 2026, 12:30 - 1:30 pm -- [Martin Dybdahl](https://martindybdahl.com/) (European University Institute)**
+tbd
+<details>
+  <summary>Abstract</summary>
+  <p>
+tbd
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **November 4, 2026, 12:30 - 1:30 pm -- Abdelkarim Laglil Herradi (Universidad Carlos III de Madrid)**
+Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility
+<details>
+  <summary>Abstract</summary>
+  <p>
+When the local political environment becomes hostile, where do migrants redirect their social, political, and emotional investments? Rather than treating integration and withdrawal as opposite responses, this study examines how migrants navigate two potentially meaningful social containers: the country of residence and the country of origin. I argue that different forms of hostility threaten different dimensions of migrants’ relationship with the country of residence: hate crimes threaten social safety, far-right electoral success undermines belonging, while anti-immigrant rallies signal limits to social acceptance.
+
+Using longitudinal SOEP data linked to subnational indicators of these forms of hostility, I examine within-person changes in migrants’ behavior, identities, and political orientations across generations. Preliminary results reveal a clear correspondence between the type of threat and the response. Hate crimes increase return intentions across generations and are associated with a leftward ideological shift. Far-right electoral strength weakens identification with Germany and increases return intentions, but responses diverge by generation: first-generation migrants combine stronger return intentions with greater political engagement, while second-generation migrants respond primarily through changes in homeland attachment while maintaining political engagement. Anti-immigrant rallies show no systematic effects. These findings highlight how migrants selectively reallocate investments across the transnational social field in response to different forms of local hostility.
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **[Special Brown Bag] October 28, 2026, 12:30 - 1:30 pm -- [Cecilia Garcia-Penalosa](https://sites.google.com/view/ceciliagarciapenalosa) (Aix-Marseille School of Economics)**
+tbd
+<details>
+  <summary>Abstract</summary>
+  <p>
+tbd
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **October 21, 2026, 12:30 - 1:30 pm -- tbd**
+tbd
+<details>
+  <summary>Abstract</summary>
+  <p>
+tbd
+  </p>
+</details>
+</details>
+
+
+<!---
+Summer Semester 2026 ---------------------------------------------------------------------------------
+-->
+
+<details>
 <summary><h3>Summer Semester 2026</h3></summary>
 
 <!--- -->
 
-###### **June 24, 2026, 12:30 - 1:30 pm -- Katja Schmidt (HU Berlin)**
+###### **June 24, 2026, 12:30 - 1:30 pm -- [Katja Schmidt](https://www.sowi.hu-berlin.de/en/research-and-teaching-areas/makro-en/mitarbeiter-en/dr-katja-schmidt) (HU Berlin)**
 The Unequal Distribution of Bitterness: Tracing Ressentiment in Times of Change
 <details>
   <summary>Abstract</summary>
@@ -47,7 +173,7 @@ Drawing on original survey data from Germany (N = 2,500; fielded 2025), this stu
 
 <!--- -->
 
-###### **[Special Brown Bag] June 11, 2026, 12:30 - 1:30 pm -- Pietro Biroli (University of Bologna)**
+###### **[Special Brown Bag] June 11, 2026, 12:30 - 1:30 pm -- [Pietro Biroli](https://sites.google.com/site/pietrobiroli/) (University of Bologna)**
 The biological trace of public health policies: how Medicaid improved epigenetic aging in adolescence
 <details>
   <summary>Abstract</summary>
@@ -60,7 +186,7 @@ Public health insurance for U.S. children has expanded dramatically through Medi
 
 <!--- -->
 
-###### **June 10, 2026, 12:30 - 1:30 pm -- Alexander Busch (MIT)**
+###### **June 10, 2026, 12:30 - 1:30 pm -- [Alexander Busch](https://www.alexander-busch.eu/) (MIT)**
 Union Responses to Revenue Shocks: Evidence from Right-to-Work Laws in the US (with Nidhaanjit Jain and Sebastian Puerta)
 <details>
   <summary>Abstract</summary>
@@ -73,7 +199,7 @@ Unions decide how to allocate their resources to organise new workers and to ben
 
 <!--- -->
 
-###### **May 27, 2026, 12:30 - 1:30 pm --Timo Gnambs (Leibniz Institute for Educational Trajectories)**
+###### **May 27, 2026, 12:30 - 1:30 pm --[Timo Gnambs](https://timo.gnambs.at/home) (Leibniz Institute for Educational Trajectories)**
 Methodological Challenges in Cross-Cohort Comparisons of Educational Achievement
 <details>
   <summary>Abstract</summary>
@@ -93,7 +219,7 @@ Comparisons of educational achievement across cohorts are frequently used to exa
 
 <!--- -->
 
-###### **[Special Brown Bag] May 6, 2026, 12:30 - 1:30 pm -- Roy Kouwenberg (Mahidol University)**
+###### **[Special Brown Bag] May 6, 2026, 12:30 - 1:30 pm -- [Roy Kouwenberg](https://www.cm.mahidol.ac.th/web/faculty-research/full-time/roy-kouwenberg) (Mahidol University)**
 Measuring Ambiguity Attitudes Reliably in Surveys
 <details>
   <summary>Abstract</summary>
@@ -107,7 +233,7 @@ This seminar introduces ambiguity, explains why it matters in economics, and dis
 
 <!--- -->
 
-###### **April 29, 2026, 12:30 - 1:30 pm -- Lorena Gril (FU Berlin)**
+###### **April 29, 2026, 12:30 - 1:30 pm -- [Lorena Gril](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/angewandte-statistik/Team/mitarbeiter_innen/gril/index.html) (FU Berlin)**
 Measurement error models on anonymized georeferenced data
 <details>
   <summary>Abstract</summary>
@@ -120,7 +246,7 @@ Measurement error models on anonymized georeferenced data
 
 <!--- -->
 
-###### **April 15, 2026, 12:30 - 1:30 pm -- Dimitria Freitas (HU Berlin & Thünen-Institut)**
+###### **April 15, 2026, 12:30 - 1:30 pm -- [Dimitria Freitas](https://sites.google.com/view/dimitriafreitas/) (HU Berlin & Thünen-Institut)**
 Public Sector Relocation and Regional Development in Germany
 <details>
   <summary>Abstract</summary>
@@ -142,7 +268,7 @@ Winter Semester 2025/2026 ------------------------------------------------------
 
 <!--- -->
 
-###### **February 4, 2026, 12:30 - 1:30 pm -- Cara Ebert (RWI Essen)**
+###### **February 4, 2026, 12:30 - 1:30 pm -- [Cara Ebert](https://cara-ebert.github.io/) (RWI Essen)**
 Improving Migration Outcomes: A Mentoring Experiment and its Network Effects in Senegal *(with Bernd Beber, Zara Riaz and Juni Singh)*
 <details>
   <summary>Abstract</summary>
@@ -155,7 +281,7 @@ In this paper we study the effectiveness of a randomized migration mentoring pro
 
 <!--- -->
 
-###### **[CANCELLED] ~~January 21, 2026, 12:30 - 1:30 pm -- Dimitria Freitas (TU Dresden)~~**
+###### **[CANCELLED] ~~January 21, 2026, 12:30 - 1:30 pm -- [Dimitria Freitas](https://sites.google.com/view/dimitriafreitas/) (TU Dresden)~~**
 The Effect of Public Sector Relocations on Regional Development in Germany
 <details>
   <summary>Abstract</summary>
@@ -168,7 +294,7 @@ Regional economic disparities within countries have become increasingly large, o
 
 <!--- -->
 
-###### **January 7, 2026, 12:30 - 1:30 pm -- Elena Matheny (European University Viadrina)**
+###### **January 7, 2026, 12:30 - 1:30 pm -- [Elena Matheny](https://www.wiwi.europa-uni.de/de/professuren/vwl-angewandte-mikrooekonomie/team/wissenschaftliche-mitarbeitende/elena-matheny/index.html) (European University Viadrina)**
 Conditional Permanent Residency and Refugee Integration: Evidence from Germany's 2016 Reform
 <details>
   <summary>Abstract</summary>
@@ -181,7 +307,7 @@ This study examines the 2016 reform of Germany's Residence Act that intended to 
 
 <!--- -->
 
-###### **December 10, 2025, 12:30 - 1:30 pm -- Nhat An Trinh (WZB)**
+###### **December 10, 2025, 12:30 - 1:30 pm -- [Nhat An Trinh](https://natrinh.github.io/) (WZB)**
 Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality *(with Daria Tisch and Manuel Schechtl)*
 <details>
   <summary>Abstract</summary>
@@ -194,7 +320,7 @@ While inequalities in inter-vivos gifts and bequests between families are widely
 
 <!--- -->
 
-###### **November 26, 2025, 12:30 - 1:30 pm -- Alexander Bertermann (ifo Institut)**
+###### **November 26, 2025, 12:30 - 1:30 pm -- [Alexander Bertermann](https://www.ifo.de/en/bertermann-a) (ifo Institut)**
 Growing Up with Disasters: Early Memories and the Origins of Patience
 <details>
   <summary>Abstract</summary>
@@ -207,7 +333,7 @@ This paper examines the long-term impact of childhood exposure to aggregate shoc
 
 <!--- -->
 
-###### **November 12, 2025, 12:30 - 1:30 pm -- Ruta Yemane (DeZIM-Institut)**
+###### **November 12, 2025, 12:30 - 1:30 pm -- [Ruta Yemane](https://www.dezim-institut.de/en/employees/ruta-yemane/) (DeZIM-Institut)**
 The Power of Stereotypes and how they influence labour market outcomes *(with Susanne Veit and Johanna Hildebrandt)*
 <details>
   <summary>Abstract</summary>
@@ -220,7 +346,7 @@ In this paper, we draw on two key models of stereotyping, the Stereotype Content
 
 <!--- -->
 
-###### **October 29, 2025, 12:30 - 1:30 pm -- Mariel Leonard (DIW Berlin / SOEP)**
+###### **October 29, 2025, 12:30 - 1:30 pm -- [Mariel Leonard](https://www.diw.de/en/diw_01.c.899723.en/persons/mckone_leonard__mariel.html) (DIW Berlin / SOEP)**
 Introduction to systematic and scoping literature reviews
 <details>
   <summary>Abstract</summary>
@@ -235,7 +361,7 @@ I will present an introduction to systematic and scoping reviews, including:
 
 <!--- -->
 
-###### **October 15, 2025, 12:30 - 1:30 pm -- Kamila Cygan-Rehm (TU Dresden)**
+###### **October 15, 2025, 12:30 - 1:30 pm -- [Kamila Cygan-Rehm](https://sites.google.com/view/kamila-cygan-rehm) (TU Dresden)**
 Timing of School Entry and Personality Traits in Adulthood *(with Anton Barabasch and Andreas Leibing)*
 <details>
   <summary>Abstract</summary>
@@ -248,7 +374,7 @@ This paper investigates the long-run consequences of a later school entry for pe
 
 <!--- -->
 
-###### **October 8, 2025, 12:30 - 1:30 pm -- Regina Riphahn (FAU Erlangen-Nürnberg)**
+###### **October 8, 2025, 12:30 - 1:30 pm -- [Regina Riphahn](https://www.empiricalecon.rw.fau.de/team/prof-regina-t-riphahn-ph-d/) (FAU Erlangen-Nürnberg)**
 Occupational recognition of refugees: Effects on labor market outcomes, remittances, and life satisfaction *(with Selina Gangl and Matthias Collischon)*
 <details>
   <summary>Abstract</summary>
