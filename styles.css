@@ -30,7 +30,7 @@ details {
 }
 
 .news-item {
-  border-left: 3px solid #973838;
+  border-left: 3px solid var(--bs-link-color, #973838);
   padding: 0.25rem 0.75rem;
   margin-bottom: 0.6rem;
   font-size: 0.93em;
@@ -104,8 +104,8 @@ main h2 {
   font-weight: 500;
   letter-spacing: 0.02em;
   vertical-align: 0.15em;
-  color: #973838;
-  border: 1px solid #973838;
+  color: var(--bs-link-color, #973838);
+  border: 1px solid var(--bs-link-color, #973838);
   border-radius: 999px;
   white-space: nowrap;
 }
@@ -113,7 +113,7 @@ main h2 {
 a.paper-status:hover {
   text-decoration: none;
   color: white;
-  background: #973838;
+  background: var(--bs-link-color, #973838);
 }
 
 .paper-status.muted {
@@ -140,7 +140,7 @@ main summary {
 }
 
 main summary:hover {
-  color: #973838;
+  color: var(--bs-link-color, #973838);
 }
 
 main details > p {

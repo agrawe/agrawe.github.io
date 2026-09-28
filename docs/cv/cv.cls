@@ -43,10 +43,13 @@
 \fancyhf{}
 \pagestyle{fancy}
 
+% Accent color (matches website link color in light mode)
+\definecolor{accent}{HTML}{8E1B1B}
+
 % Hyperlinks
 \hypersetup{
-    colorlinks = true,   
-    urlcolor = Maroon,
+    colorlinks = true,
+    urlcolor = accent,
     linkcolor = Black
     }
 
@@ -140,7 +143,7 @@
     \end{minipage}
     \begin{minipage}[t]{0.74\textwidth}
         #2
-    \end{minipage}\\
+    \end{minipage}\\[1ex]
 }
 
 % CV Entry 3 (two columns)
@@ -157,15 +160,29 @@
     \end{minipage}\\
 }
 
-% Work in progress:
-%	#1 title
-% 	#2 coauthors (can be left empty) 
-\newcommand{\progress}[2]{%
-#1%
-% Check if second argument is empty
-\if\relax\detokenize{#2}\relax 
+% Work in progress (title links to the research page):
+%	#1 status, flush right (optional, e.g. Draft coming soon)
+%	#2 title
+% 	#3 coauthors (can be left empty)
+\newcommand{\progress}[3][]{%
+\href{https://agrawe.eu/research\#work-in-progress}{#2}%
+% Check if coauthors are empty
+\if\relax\detokenize{#3}\relax
 \else
-  , \textit{with #2}%
+  , \textit{with #3}%
 \fi
-.\\
+.%
+% Check if optional status is empty
+\if\relax\detokenize{#1}\relax
+\else
+  \hfill{\small\textit{#1}}%
+\fi\par
+\vspace{0.5ex}
+}
+
+% Coauthor link (uncolored, underlined)
+%	#1 URL
+% 	#2 name
+\newcommand{\coauthor}[2]{%
+{\hypersetup{urlcolor=black}\href{#1}{\underline{#2}}}%
 }
