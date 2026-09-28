@@ -68,7 +68,7 @@ tbd
 
 <!--- -->
 
-###### **December 16, 2026, 12:30 - 1:30 pm -- [Daniel Nüst](https://nordholmen.net/) (TU Dresden)**
+###### **December 16, 2026, 12:30 - 1:30 pm -- [Daniel Nüst](https://tu-dresden.de/bu/umwelt/geo/geoinformatik/die-professur/team/dnuest) (TU Dresden)**
 Reproducible workflows in scholarly communication with CODECHECK
 <details>
   <summary>Abstract</summary>
@@ -123,11 +123,11 @@ Using longitudinal SOEP data linked to subnational indicators of these forms of 
 <!--- -->
 
 ###### **[Special Brown Bag] October 28, 2026, 12:30 - 1:30 pm -- [Cecilia Garcia-Penalosa](https://sites.google.com/view/ceciliagarciapenalosa) (Aix-Marseille School of Economics)**
-tbd
+Gender Gaps in the Urban Wage Premium (with Kenza Elass and Christian Schluter)
 <details>
   <summary>Abstract</summary>
   <p>
-tbd
+We examine the economic geography of gender wage gaps to understand the role that location plays in gender earning differences. Using panelised administrative data for the universe of French workers, our findings indicate that women benefit relatively more from density than men, with an urban wage premium (return to urban density) 48% higher than for men. We identify a number of factors that explain this gap, with a large share being explained by the structure of the local labour market, notably, the extent of occupational segregation. Another important factor is commuting patterns, while childcare availability plays only a moderate role.
   </p>
 </details>
 
