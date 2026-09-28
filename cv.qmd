@@ -3,14 +3,12 @@ title: "CV"
 format: 
   html:
     respect-user-color-scheme: true
-    page-layout: article
     include-in-header:
       text: |
         <meta name="robots" content="noindex">
 ---
 
 ```{=html}
-<iframe src="/cv/Grawe_CV_en.pdf#toolbar=0," width="100%" height="100%" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe class="cv-frame" src="/cv/Grawe_CV_en.pdf#toolbar=0"></iframe>
 ```
-
-You can download a PDF copy of my CV [here](/cv/Grawe_CV_en.pdf){target="_blank"}.
+[Download PDF](/cv/Grawe_CV_en.pdf){.paper-status target="_blank"}

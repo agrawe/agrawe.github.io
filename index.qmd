@@ -14,9 +14,7 @@ I consider myself an applied microeconomist and work on topics in education, lab
 I go by Alex, use (he/him) pronouns, and prefer "Du" in German.
 If you'd like to chat or grab a coffee, please reach out anytime!
 
----
-
-#### News
+## News
 
 ::: news-feed
 
@@ -37,10 +35,8 @@ I co-organized a workshop. Check out the [website](https://labor-research.net/20
 
 :::
 
+## Contact
 
----
-
-**Contact**\
 Alexander Grawe\
 DIW Berlin\
 Anton-Wilhelm-Amo-Straße 58\
