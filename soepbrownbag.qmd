@@ -28,7 +28,7 @@ Winter Semester 2026/2027 ------------------------------------------------------
 
 <!--- -->
 
-###### **February 10, 2027, 12:30 - 1:30 pm -- [Juan Palomino](https://sites.google.com/site/juancpalomino/home) (Universidad Complutense Madrid)**
+###### **October 21, 2026, 12:30 - 1:30 pm -- tbd**
 tbd
 <details>
   <summary>Abstract</summary>
@@ -41,7 +41,35 @@ tbd
 
 <!--- -->
 
-###### **January 27, 2027, 12:30 - 1:30 pm -- tbd**
+###### **October 28, 2026, 12:30 - 1:30 pm -- [Cecilia García Peñalosa](https://sites.google.com/view/ceciliagarciapenalosa) (Aix-Marseille School of Economics)** [Special Brown Bag]{.paper-status}
+Gender Gaps in the Urban Wage Premium (with Kenza Elass and Christian Schluter)
+<details>
+  <summary>Abstract</summary>
+  <p>
+We examine the economic geography of gender wage gaps to understand the role that location plays in gender earning differences. Using panelised administrative data for the universe of French workers, our findings indicate that women benefit relatively more from density than men, with an urban wage premium (return to urban density) 48% higher than for men. We identify a number of factors that explain this gap, with a large share being explained by the structure of the local labour market, notably, the extent of occupational segregation. Another important factor is commuting patterns, while childcare availability plays only a moderate role.
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **November 4, 2026, 12:30 - 1:30 pm -- Abdelkarim Laglil Herradi (Universidad Carlos III de Madrid)**
+Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility
+<details>
+  <summary>Abstract</summary>
+  <p>
+When the local political environment becomes hostile, where do migrants redirect their social, political, and emotional investments? Rather than treating integration and withdrawal as opposite responses, this study examines how migrants navigate two potentially meaningful social containers: the country of residence and the country of origin. I argue that different forms of hostility threaten different dimensions of migrants’ relationship with the country of residence: hate crimes threaten social safety, far-right electoral success undermines belonging, while anti-immigrant rallies signal limits to social acceptance.
+
+Using longitudinal SOEP data linked to subnational indicators of these forms of hostility, I examine within-person changes in migrants’ behavior, identities, and political orientations across generations. Preliminary results reveal a clear correspondence between the type of threat and the response. Hate crimes increase return intentions across generations and are associated with a leftward ideological shift. Far-right electoral strength weakens identification with Germany and increases return intentions, but responses diverge by generation: first-generation migrants combine stronger return intentions with greater political engagement, while second-generation migrants respond primarily through changes in homeland attachment while maintaining political engagement. Anti-immigrant rallies show no systematic effects. These findings highlight how migrants selectively reallocate investments across the transnational social field in response to different forms of local hostility.
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **November 18, 2026, 12:30 - 1:30 pm -- [Martin Dybdahl](https://martindybdahl.com/) (European University Institute)**
 tbd
 <details>
   <summary>Abstract</summary>
@@ -54,7 +82,7 @@ tbd
 
 <!--- -->
 
-###### **January 13, 2027, 12:30 - 1:30 pm -- [Mariia Vasiakina](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/mariia_vasiakina_4378/) (Max Planck Institute for Demographic Research)**
+###### **December 2, 2026, 12:30 - 1:30 pm -- tbd**
 tbd
 <details>
   <summary>Abstract</summary>
@@ -80,7 +108,7 @@ CODECHECK (<a href="https://codecheck.org.uk/">https://codecheck.org.uk/</a>) pr
 
 <!--- -->
 
-###### **December 2, 2026, 12:30 - 1:30 pm -- tbd**
+###### **January 13, 2027, 12:30 - 1:30 pm -- [Mariia Vasiakina](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/mariia_vasiakina_4378/) (Max Planck Institute for Demographic Research)**
 tbd
 <details>
   <summary>Abstract</summary>
@@ -93,7 +121,7 @@ tbd
 
 <!--- -->
 
-###### **November 18, 2026, 12:30 - 1:30 pm -- [Martin Dybdahl](https://martindybdahl.com/) (European University Institute)**
+###### **January 27, 2027, 12:30 - 1:30 pm -- tbd**
 tbd
 <details>
   <summary>Abstract</summary>
@@ -106,35 +134,7 @@ tbd
 
 <!--- -->
 
-###### **November 4, 2026, 12:30 - 1:30 pm -- Abdelkarim Laglil Herradi (Universidad Carlos III de Madrid)**
-Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility
-<details>
-  <summary>Abstract</summary>
-  <p>
-When the local political environment becomes hostile, where do migrants redirect their social, political, and emotional investments? Rather than treating integration and withdrawal as opposite responses, this study examines how migrants navigate two potentially meaningful social containers: the country of residence and the country of origin. I argue that different forms of hostility threaten different dimensions of migrants’ relationship with the country of residence: hate crimes threaten social safety, far-right electoral success undermines belonging, while anti-immigrant rallies signal limits to social acceptance.
-
-Using longitudinal SOEP data linked to subnational indicators of these forms of hostility, I examine within-person changes in migrants’ behavior, identities, and political orientations across generations. Preliminary results reveal a clear correspondence between the type of threat and the response. Hate crimes increase return intentions across generations and are associated with a leftward ideological shift. Far-right electoral strength weakens identification with Germany and increases return intentions, but responses diverge by generation: first-generation migrants combine stronger return intentions with greater political engagement, while second-generation migrants respond primarily through changes in homeland attachment while maintaining political engagement. Anti-immigrant rallies show no systematic effects. These findings highlight how migrants selectively reallocate investments across the transnational social field in response to different forms of local hostility.
-  </p>
-</details>
-
-<div style="margin-bottom: 1rem;"></div>
-
-<!--- -->
-
-###### **October 28, 2026, 12:30 - 1:30 pm -- [Cecilia García Peñalosa](https://sites.google.com/view/ceciliagarciapenalosa) (Aix-Marseille School of Economics)** [Special Brown Bag]{.paper-status}
-Gender Gaps in the Urban Wage Premium (with Kenza Elass and Christian Schluter)
-<details>
-  <summary>Abstract</summary>
-  <p>
-We examine the economic geography of gender wage gaps to understand the role that location plays in gender earning differences. Using panelised administrative data for the universe of French workers, our findings indicate that women benefit relatively more from density than men, with an urban wage premium (return to urban density) 48% higher than for men. We identify a number of factors that explain this gap, with a large share being explained by the structure of the local labour market, notably, the extent of occupational segregation. Another important factor is commuting patterns, while childcare availability plays only a moderate role.
-  </p>
-</details>
-
-<div style="margin-bottom: 1rem;"></div>
-
-<!--- -->
-
-###### **October 21, 2026, 12:30 - 1:30 pm -- tbd**
+###### **February 10, 2027, 12:30 - 1:30 pm -- [Juan Palomino](https://sites.google.com/site/juancpalomino/home) (Universidad Complutense Madrid)**
 tbd
 <details>
   <summary>Abstract</summary>
@@ -154,77 +154,12 @@ Summer Semester 2026 -----------------------------------------------------------
 
 <!--- -->
 
-###### **June 24, 2026, 12:30 - 1:30 pm -- [Katja Schmidt](https://www.sowi.hu-berlin.de/en/research-and-teaching-areas/makro-en/mitarbeiter-en/dr-katja-schmidt) (HU Berlin)**
-The Unequal Distribution of Bitterness: Tracing Ressentiment in Times of Change
+###### **April 15, 2026, 12:30 - 1:30 pm -- [Dimitria Freitas](https://sites.google.com/view/dimitriafreitas/) (HU Berlin & Thünen-Institut)**
+Public Sector Relocation and Regional Development in Germany
 <details>
   <summary>Abstract</summary>
   <p>
-Modern democracies are undergoing multiple, overlapping transformations, driven by globalization, digitalization, migration, inequality, and climate change. While some adapt with openness, others experience what Mau et al. (2023) term Veränderungserschöpfung – change fatigue: the sense that “too much is changing, too fast, and all at once.” This paper examines whether and how such fatigue translates into a more corrosive emotional response: ressentiment.
-
-Unlike ordinary resentment, ressentiment denotes a persistent and socially embedded form of grievance that emerges when perceived loss or exclusion cannot be effectively acted upon. It involves the moral reinterpretation of powerlessness and redirects frustration into blame and symbolic hostility, thereby translating structural change into moral conflict.
-
-Drawing on original survey data from Germany (N = 2,500; fielded 2025), this study analyzes how perceptions of societal transformation and experiences of change fatigue relate to ressentiment, and how these patterns are distributed across social groups. By linking subjective experiences of change to affective and moralized responses, the paper sheds light on the emotional underpinnings of grievance politics and democratic distrust.
-
-  </p>
-</details>
-
-<div style="margin-bottom: 1rem;"></div>
-
-<!--- -->
-
-###### **June 11, 2026, 12:30 - 1:30 pm -- [Pietro Biroli](https://sites.google.com/site/pietrobiroli/) (University of Bologna)** [Special Brown Bag]{.paper-status}
-The biological trace of public health policies: how Medicaid improved epigenetic aging in adolescence
-<details>
-  <summary>Abstract</summary>
-  <p>
-Public health insurance for U.S. children has expanded dramatically through Medicaid and the Children’s Health Insurance Program (CHIP), yet the biological mechanisms linking these policies to long-run health remain poorly understood. We test whether childhood eligibility for Medicaid/CHIP causally affects epigenetic aging measures. Using longitudinal epigenetic data from the Fragile Families and Child Wellbeing Study (FFCWS), we link individuals to state–year–age eligibility rules and exploit policy-driven variation in Medicaid/CHIP generosity using a simulated-instrument design. Results indicate that an additional wave of Medicaid/CHIP eligibility reduces GrimAge epigenetic age acceleration by 0.089 SD at age 9 and 0.059 SD at age 15. Slower epigenetic aging at these time points translated into better health and developmental outcomes at age 22, supporting the hypothesis that early economic conditions can influence the developing epigenome and persist into adulthood. These findings provide causal evidence that expanding childhood health insurance coverage can slow biological aging, highlighting the potential of epigenetic biomarkers for policy evaluation in younger, healthier populations, where cellular-level changes may take years to manifest phenotypically.
-  </p>
-</details>
-
-<div style="margin-bottom: 1rem;"></div>
-
-<!--- -->
-
-###### **June 10, 2026, 12:30 - 1:30 pm -- [Alexander Busch](https://www.alexander-busch.eu/) (MIT)**
-Union Responses to Revenue Shocks: Evidence from Right-to-Work Laws in the US (with Nidhaanjit Jain and Sebastian Puerta)
-<details>
-  <summary>Abstract</summary>
-  <p>
-Unions decide how to allocate their resources to organise new workers and to benefit existing members. While there is a growing literature studying the aggregate effects of shocks to union power, little is known about how individual unions change their behaviour in response to these shocks. We illustrate the importance of accounting for union equilibrium responses when studying the impact of shocks to union power. We do this in the context of state-level Right-to-Work (RTW) laws in the US. RTW makes it optional for workers to pay union dues even when they benefit from coverage, thereby creating a freeriding problem and lowering union resources. Using the introduction of RTW laws in five states and a novel dataset that links a union’s exposure to these laws to its financial performance, we use an event-study approach to show that unions substitute away from affected states towards non-affected states. Unions also change the composition of workers they represent by shifting away from service sector firms where the freeriding problem is likely to be worse due to high labour turnover. Through this substitution, they blunt losses to revenues. Our results 1) show how shocks to union power can lead to a geographic and sectoral reallocation of union jobs, 2) illustrate the importance of revenue collection in the union objective function, and 3) highlight how union responses can constitute SUTVA violations in the existing literature on RTW laws.
-  </p>Comparisons of educational achievement across cohorts are frequently used to examine changes in educational performance and to evaluate the impact of societal or educational events, such as the COVID-19 pandemic. However, drawing causal inferences from observational data without strong experimental control remains challenging, as often no single clear methodological approach is universally accepted for addressing issues such as matching, missing data treatment, or competence scaling. Different defensible analytical choices may substantially influence estimates of the focal effect. A multiverse approach can therefore help make uncertainty in effect estimation transparent. The present study demonstrates this approach using data from the German National Educational Panel Study (NEPS) that tracks multiple cohorts of children, adolescents, and adults across their life course. Scientific literacy assessed in Grades 1 and 2 were compared across two longitudinal cohorts (total N = 6,365) to investigate the impact of pandemic-related school closures on changes in science achievement. One cohort was unaffected by the pandemic, whereas the other experienced pandemic-related disruptions during primary school. By systematically varying analytical decisions, the study illustrates how conclusions regarding the same research question may differ across equally defensible analytical approaches. Finally, methodological challenges involved in combining the diverse effect estimates generated across the multiverse of analyses are discussed.
-</details>
-
-<div style="margin-bottom: 1rem;"></div>
-
-<!--- -->
-
-###### **May 27, 2026, 12:30 - 1:30 pm --[Timo Gnambs](https://timo.gnambs.at/home) (Leibniz Institute for Educational Trajectories)**
-Methodological Challenges in Cross-Cohort Comparisons of Educational Achievement
-<details>
-  <summary>Abstract</summary>
-  <p>
-Comparisons of educational achievement across cohorts are frequently used to examine changes in educational performance and to evaluate the impact of societal or educational events, such as the COVID-19 pandemic. However, drawing causal inferences from observational data without strong experimental control remains challenging, as often no single clear methodological approach is universally accepted for addressing issues such as matching, missing data treatment, or competence scaling. Different defensible analytical choices may substantially influence estimates of the focal effect. A multiverse approach can therefore help make uncertainty in effect estimation transparent. The present study demonstrates this approach using data from the German National Educational Panel Study (NEPS) that tracks multiple cohorts of children, adolescents, and adults across their life course. Scientific literacy assessed in Grades 1 and 2 were compared across two longitudinal cohorts (total N = 6,365) to investigate the impact of pandemic-related school closures on changes in science achievement. One cohort was unaffected by the pandemic, whereas the other experienced pandemic-related disruptions during primary school. By systematically varying analytical decisions, the study illustrates how conclusions regarding the same research question may differ across equally defensible analytical approaches. Finally, methodological challenges involved in combining the diverse effect estimates generated across the multiverse of analyses are discussed.
-  </p>
-</details>
-
-<div style="margin-bottom: 1rem;"></div>
-
-<!--- -->
-
-###### **~~May 13, 2026, 12:30 - 1:30 pm~~** [No Brown Bag]{.paper-status .muted}
-
-
-<div style="margin-bottom: 1rem;"></div>
-
-<!--- -->
-
-###### **May 6, 2026, 12:30 - 1:30 pm -- [Roy Kouwenberg](https://www.cm.mahidol.ac.th/web/faculty-research/full-time/roy-kouwenberg) (Mahidol University)** [Special Brown Bag]{.paper-status}
-Measuring Ambiguity Attitudes Reliably in Surveys
-<details>
-  <summary>Abstract</summary>
-  <p>
-This seminar introduces ambiguity, explains why it matters in economics, and discusses how ambiguity attitudes are typically measured in empirical research. Ambiguity plays an important role in decision-making, as most situations in life involve unknown outcomes or probabilities. However, people’s attitudes toward ambiguity are hard to measure precisely, as standard measures based on incentivized choice tasks exhibit substantial noise. This noise makes it difficult to identify stable individual differences in ambiguity aversion and weakens these measures' ability to explain relevant economic outcomes. We illustrate these issues using new data from two large population surveys in Germany and the US, each collected in two waves, applying an IV methodology to correct for measurement error. We then provide preliminary evidence that survey questions can be used to develop a short ambiguity aversion scale that is more stable and at least as predictive of outcomes theoretically linked to ambiguity, such as equity ownership and entrepreneurship.
-
+As regional economic disparities within countries grow, governments are increasingly experimenting with public employment reallocation as a place-based policy. In this paper, I estimate the causal effect on local labor markets of a German policy that relocated about 3,000 public sector jobs to lagging regions. Using novel data on 60 agency relocations from 2015–2025, I estimate employment and population effects for receiving and sending municipalities and use the results to discipline a quantitative spatial model that simulates spatial reallocation and welfare effects. I find that relocations increased private employment shares by up to 2.3% (1.3 percentage points), reduced unemployment by up to 11.9% (0.33 percentage points), and raised population by 1.6%, implying a public-to-private jobs multiplier of 1.08 in receiving locations. Sending locations also see an increase in private sector employment that is rationalized in the model by within-private-sector spillovers exceeding public-to-private sector spillovers.
   </p>
 </details>
 
@@ -245,12 +180,76 @@ Measurement error models on anonymized georeferenced data
 
 <!--- -->
 
-###### **April 15, 2026, 12:30 - 1:30 pm -- [Dimitria Freitas](https://sites.google.com/view/dimitriafreitas/) (HU Berlin & Thünen-Institut)**
-Public Sector Relocation and Regional Development in Germany
+###### **May 6, 2026, 12:30 - 1:30 pm -- [Roy Kouwenberg](https://www.cm.mahidol.ac.th/web/faculty-research/full-time/roy-kouwenberg) (Mahidol University)** [Special Brown Bag]{.paper-status}
+Measuring Ambiguity Attitudes Reliably in Surveys
 <details>
   <summary>Abstract</summary>
   <p>
-As regional economic disparities within countries grow, governments are increasingly experimenting with public employment reallocation as a place-based policy. In this paper, I estimate the causal effect on local labor markets of a German policy that relocated about 3,000 public sector jobs to lagging regions. Using novel data on 60 agency relocations from 2015–2025, I estimate employment and population effects for receiving and sending municipalities and use the results to discipline a quantitative spatial model that simulates spatial reallocation and welfare effects. I find that relocations increased private employment shares by up to 2.3% (1.3 percentage points), reduced unemployment by up to 11.9% (0.33 percentage points), and raised population by 1.6%, implying a public-to-private jobs multiplier of 1.08 in receiving locations. Sending locations also see an increase in private sector employment that is rationalized in the model by within-private-sector spillovers exceeding public-to-private sector spillovers.
+This seminar introduces ambiguity, explains why it matters in economics, and discusses how ambiguity attitudes are typically measured in empirical research. Ambiguity plays an important role in decision-making, as most situations in life involve unknown outcomes or probabilities. However, people’s attitudes toward ambiguity are hard to measure precisely, as standard measures based on incentivized choice tasks exhibit substantial noise. This noise makes it difficult to identify stable individual differences in ambiguity aversion and weakens these measures' ability to explain relevant economic outcomes. We illustrate these issues using new data from two large population surveys in Germany and the US, each collected in two waves, applying an IV methodology to correct for measurement error. We then provide preliminary evidence that survey questions can be used to develop a short ambiguity aversion scale that is more stable and at least as predictive of outcomes theoretically linked to ambiguity, such as equity ownership and entrepreneurship.
+
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **~~May 13, 2026, 12:30 - 1:30 pm~~** [No Brown Bag]{.paper-status .muted}
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **May 27, 2026, 12:30 - 1:30 pm --[Timo Gnambs](https://timo.gnambs.at/home) (Leibniz Institute for Educational Trajectories)**
+Methodological Challenges in Cross-Cohort Comparisons of Educational Achievement
+<details>
+  <summary>Abstract</summary>
+  <p>
+Comparisons of educational achievement across cohorts are frequently used to examine changes in educational performance and to evaluate the impact of societal or educational events, such as the COVID-19 pandemic. However, drawing causal inferences from observational data without strong experimental control remains challenging, as often no single clear methodological approach is universally accepted for addressing issues such as matching, missing data treatment, or competence scaling. Different defensible analytical choices may substantially influence estimates of the focal effect. A multiverse approach can therefore help make uncertainty in effect estimation transparent. The present study demonstrates this approach using data from the German National Educational Panel Study (NEPS) that tracks multiple cohorts of children, adolescents, and adults across their life course. Scientific literacy assessed in Grades 1 and 2 were compared across two longitudinal cohorts (total N = 6,365) to investigate the impact of pandemic-related school closures on changes in science achievement. One cohort was unaffected by the pandemic, whereas the other experienced pandemic-related disruptions during primary school. By systematically varying analytical decisions, the study illustrates how conclusions regarding the same research question may differ across equally defensible analytical approaches. Finally, methodological challenges involved in combining the diverse effect estimates generated across the multiverse of analyses are discussed.
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **June 10, 2026, 12:30 - 1:30 pm -- [Alexander Busch](https://www.alexander-busch.eu/) (MIT)**
+Union Responses to Revenue Shocks: Evidence from Right-to-Work Laws in the US (with Nidhaanjit Jain and Sebastian Puerta)
+<details>
+  <summary>Abstract</summary>
+  <p>
+Unions decide how to allocate their resources to organise new workers and to benefit existing members. While there is a growing literature studying the aggregate effects of shocks to union power, little is known about how individual unions change their behaviour in response to these shocks. We illustrate the importance of accounting for union equilibrium responses when studying the impact of shocks to union power. We do this in the context of state-level Right-to-Work (RTW) laws in the US. RTW makes it optional for workers to pay union dues even when they benefit from coverage, thereby creating a freeriding problem and lowering union resources. Using the introduction of RTW laws in five states and a novel dataset that links a union’s exposure to these laws to its financial performance, we use an event-study approach to show that unions substitute away from affected states towards non-affected states. Unions also change the composition of workers they represent by shifting away from service sector firms where the freeriding problem is likely to be worse due to high labour turnover. Through this substitution, they blunt losses to revenues. Our results 1) show how shocks to union power can lead to a geographic and sectoral reallocation of union jobs, 2) illustrate the importance of revenue collection in the union objective function, and 3) highlight how union responses can constitute SUTVA violations in the existing literature on RTW laws.
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **June 11, 2026, 12:30 - 1:30 pm -- [Pietro Biroli](https://sites.google.com/site/pietrobiroli/) (University of Bologna)** [Special Brown Bag]{.paper-status}
+The biological trace of public health policies: how Medicaid improved epigenetic aging in adolescence
+<details>
+  <summary>Abstract</summary>
+  <p>
+Public health insurance for U.S. children has expanded dramatically through Medicaid and the Children’s Health Insurance Program (CHIP), yet the biological mechanisms linking these policies to long-run health remain poorly understood. We test whether childhood eligibility for Medicaid/CHIP causally affects epigenetic aging measures. Using longitudinal epigenetic data from the Fragile Families and Child Wellbeing Study (FFCWS), we link individuals to state–year–age eligibility rules and exploit policy-driven variation in Medicaid/CHIP generosity using a simulated-instrument design. Results indicate that an additional wave of Medicaid/CHIP eligibility reduces GrimAge epigenetic age acceleration by 0.089 SD at age 9 and 0.059 SD at age 15. Slower epigenetic aging at these time points translated into better health and developmental outcomes at age 22, supporting the hypothesis that early economic conditions can influence the developing epigenome and persist into adulthood. These findings provide causal evidence that expanding childhood health insurance coverage can slow biological aging, highlighting the potential of epigenetic biomarkers for policy evaluation in younger, healthier populations, where cellular-level changes may take years to manifest phenotypically.
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **June 24, 2026, 12:30 - 1:30 pm -- [Katja Schmidt](https://www.sowi.hu-berlin.de/en/research-and-teaching-areas/makro-en/mitarbeiter-en/dr-katja-schmidt) (HU Berlin)**
+The Unequal Distribution of Bitterness: Tracing Ressentiment in Times of Change
+<details>
+  <summary>Abstract</summary>
+  <p>
+Modern democracies are undergoing multiple, overlapping transformations, driven by globalization, digitalization, migration, inequality, and climate change. While some adapt with openness, others experience what Mau et al. (2023) term Veränderungserschöpfung – change fatigue: the sense that “too much is changing, too fast, and all at once.” This paper examines whether and how such fatigue translates into a more corrosive emotional response: ressentiment.
+
+Unlike ordinary resentment, ressentiment denotes a persistent and socially embedded form of grievance that emerges when perceived loss or exclusion cannot be effectively acted upon. It involves the moral reinterpretation of powerlessness and redirects frustration into blame and symbolic hostility, thereby translating structural change into moral conflict.
+
+Drawing on original survey data from Germany (N = 2,500; fielded 2025), this study analyzes how perceptions of societal transformation and experiences of change fatigue relate to ressentiment, and how these patterns are distributed across social groups. By linking subjective experiences of change to affective and moralized responses, the paper sheds light on the emotional underpinnings of grievance politics and democratic distrust.
+
   </p>
 </details>
 </details>
@@ -267,12 +266,12 @@ Winter Semester 2025/2026 ------------------------------------------------------
 
 <!--- -->
 
-###### **February 4, 2026, 12:30 - 1:30 pm -- [Cara Ebert](https://cara-ebert.github.io/) (RWI Essen)**
-Improving Migration Outcomes: A Mentoring Experiment and its Network Effects in Senegal *(with Bernd Beber, Zara Riaz and Juni Singh)*
+###### **October 8, 2025, 12:30 - 1:30 pm -- [Regina Riphahn](https://www.empiricalecon.rw.fau.de/team/prof-regina-t-riphahn-ph-d/) (FAU Erlangen-Nürnberg)** [Special Brown Bag]{.paper-status}
+Occupational recognition of refugees: Effects on labor market outcomes, remittances, and life satisfaction *(with Selina Gangl and Matthias Collischon)*
 <details>
   <summary>Abstract</summary>
   <p>
-In this paper we study the effectiveness of a randomized migration mentoring program, and the role of network embeddedness at origin, for migration decisions and outcomes in rural Senegal. The mentoring program improves job expectations when migrating, migration experiences, and economic outcomes. When the mentoring is attended by randomly assigned migrant from the origin village, positive expectations and experiences from migrating cease, but economic impacts remain.
+Many high-income economies strive to integrate recently immigrated refugees and asylum-seekers into their labor markets. We contribute to the discussion of relevant policy tools and use rich survey data that are matched to precise administrative records on refugee immigrants to Germany. We study the impact of occupational recognition decisions on refugee outcomes. Applying a difference-in-differences design with person-specific fixed effects, we find that those who benefit from occupational recognition are more likely to be employed, earn higher wages, have higher life satisfaction, and transfer higher remittances to their home countries than individuals who never (or later) apply for occupational recognition. In future work, we will employ event study designs to examine the development of effects over time and offer additional details on relevant mechanisms.
   </p>
 </details>
 
@@ -280,64 +279,12 @@ In this paper we study the effectiveness of a randomized migration mentoring pro
 
 <!--- -->
 
-###### **~~January 21, 2026, 12:30 - 1:30 pm -- [Dimitria Freitas](https://sites.google.com/view/dimitriafreitas/) (TU Dresden)~~** [Cancelled]{.paper-status .muted}
-The Effect of Public Sector Relocations on Regional Development in Germany
+###### **October 15, 2025, 12:30 - 1:30 pm -- [Kamila Cygan-Rehm](https://sites.google.com/view/kamila-cygan-rehm) (TU Dresden)**
+Timing of School Entry and Personality Traits in Adulthood *(with Anton Barabasch and Andreas Leibing)*
 <details>
   <summary>Abstract</summary>
   <p>
-Regional economic disparities within countries have become increasingly large, often surpassing the disparities observed between countries. To address regional inequality, governments have been turning away from standard subsidies and are experimenting with public employment reallocation as a place-based policy. This paper estimates the causal effect of public employment reallocation on local labor markets. I study the Heimatstrategie, which relocates around 3,000 public sector jobs from Munich to economically lagging regions in Bavaria, Germany. Using novel data on 60 agency relocations between 2015 and 2025, I exploit the government’s quantitative selection criteria for receiving municipalities and implement a long-differences design comparing treated Bavarian municipalities to Mahalanobis-matched control municipalities in other German states. My estimates show that relocations increased private sector employment shares by up to 2.3%, reduced unemployment rates by up to 11.9%, and increased local population by up to 1.6% without harming sending locations. These results correspond to a public-to-private jobs multiplier of 1.08. To assess general equilibrium effects of the relocation program, I implement a quantitative spatial model with a two-sector (public and private) framework, showing modest increases in amenities through the relocation counterfactual and negligible welfare effects.
-  </p>
-</details>
-
-<div style="margin-bottom: 1rem;"></div>
-
-<!--- -->
-
-###### **January 7, 2026, 12:30 - 1:30 pm -- [Elena Matheny](https://www.wiwi.europa-uni.de/de/professuren/vwl-angewandte-mikrooekonomie/team/wissenschaftliche-mitarbeitende/elena-matheny/index.html) (European University Viadrina)**
-Conditional Permanent Residency and Refugee Integration: Evidence from Germany's 2016 Reform
-<details>
-  <summary>Abstract</summary>
-  <p>
-This study examines the 2016 reform of Germany's Residence Act that intended to foster refugee integration by extending the waiting period for permanent residency from three to five years and introducing requirements, such as proficiency in German and partial financial independence. Using data from the German Socio-Economic Panel (SOEP), we employ a difference-in-differences design to analyse employment and full-time employment trends among refugees. Results show that the reform did not accelerate take-up rates of either overall or full-time employment. However, administrative data from the German Central Register of Foreign Nationals reveals that after the reform permanent residency acquisition rates significantly declined. The findings call into question the efficacy of conditional residency policies in fostering labour market integration.
-  </p>
-</details>
-
-<div style="margin-bottom: 1rem;"></div>
-
-<!--- -->
-
-###### **December 10, 2025, 12:30 - 1:30 pm -- [Nhat An Trinh](https://natrinh.github.io/) (WZB)**
-Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality *(with Daria Tisch and Manuel Schechtl)*
-<details>
-  <summary>Abstract</summary>
-  <p>
-While inequalities in inter-vivos gifts and bequests between families are widely recognized as key drivers of wealth inequality, less is known about the unequal transmission of wealth within families. This study addresses this gap by asking: (1) To what extent are estates unequally divided? (2) How do estate portfolios, primogeniture, and patrilineality shape unequal estate division? (3) What is the impact of unequal estate division on inheritance inequality? Analyzing administrative data from the German inheritance and gift tax register (2007–2020), we find that 38 percent of estates are unequally divided between children. Unequal division is most pronounced at the top of the distribution and when business assets dominate the estate. Sons benefit rather than firstborn children, reflecting patrilineal practices. Overall inheritance inequality would be reduced by 8 percent if estates were divided equally. These findings shed novel light on how the family generates inequalities both within and across generations.
-  </p>
-</details>
-
-<div style="margin-bottom: 1rem;"></div>
-
-<!--- -->
-
-###### **November 26, 2025, 12:30 - 1:30 pm -- [Alexander Bertermann](https://www.ifo.de/en/bertermann-a) (ifo Institut)**
-Growing Up with Disasters: Early Memories and the Origins of Patience
-<details>
-  <summary>Abstract</summary>
-  <p>
-This paper examines the long-term impact of childhood exposure to aggregate shocks on intertemporal decision-making. Drawing on survey data from 80,000 individuals in 76 countries and exploiting within-country, cross-cohort variation in exposure to natural and man-made disasters, I show that such shocks during childhood significantly reduce patience in adulthood. The effects are concentrated during adolescence, highlighting the importance of this developmental stage in the formation of time preferences. Evidence from migrant subsamples helps isolate psychological mechanisms from material hardship, pointing to heightened perceived future uncertainty as the primary channel. Overall, these findings demonstrate that childhood exposure to instability has lasting effects on adult time preferences.
-  </p>
-</details>
-
-<div style="margin-bottom: 1rem;"></div>
-
-<!--- -->
-
-###### **November 12, 2025, 12:30 - 1:30 pm -- [Ruta Yemane](https://www.dezim-institut.de/en/employees/ruta-yemane/) (DeZIM-Institut)**
-The Power of Stereotypes and how they influence labour market outcomes *(with Susanne Veit and Johanna Hildebrandt)*
-<details>
-  <summary>Abstract</summary>
-  <p>
-In this paper, we draw on two key models of stereotyping, the Stereotype Content Model (SCM) and the Agency-Beliefs-Communion (ABC) to study whether stereotypes associated to ethnic minorities predict discrimination in hiring in the German labor market. In study 1, we examined the content of the stereotypes that Germans ascribe to 38 ethnic minorities, drawing on a large-scale online survey (N=2,300). We instructed respondents to rate ethnic minorities with respect to different adjectives reflecting the warmth, competence/agency, and progressive beliefs dimensions of the SCM and ABC model. In study 2, we used the group-level ethnic stereotypes found in study 1 to predict differences in employer responses to job applications. We drew on a large-scale field experiment on hiring discrimination, a so-called correspondence test, conducted in Germany (N=2,700 employer responses). The ethnic background of the fictitious job candidates was randomly varied in this field experiment, which allowed us to investigate how well ethnic stereotypes can explain ethnic hierarchies in hiring and which stereotype content dimensions mattered the most in employers’ evaluations. Overall, our results suggest that stereotypes about beliefs play a crucial role in the assessment of ethnic origin groups. Stereotypical progressiveness is the best predictor for ethnic discrimination in real-world hiring decisions. Interestingly, progressive beliefs are also the strongest predictor of perceived similarity to the Germany host society. By contrast, competence/agency and warmth stereotypes fail to predict hiring discrimination.
+This paper investigates the long-run consequences of a later school entry for personality traits. For identification, we exploit the statutory cutoff rules for school enrollment in Germany within a regression discontinuity design. We find that relatively older school starters have persistently lower levels of neuroticism in adulthood. This effect is entirely driven by women, which has important implications for gender gaps in the labor market, as women typically score significantly higher on neuroticism at all stages of life, which puts them at a disadvantage. Our results suggest that family decisions regarding compliance with enrollment cutoffs may have lasting implications for gender gaps in socio-emotional skills.
   </p>
 </details>
 
@@ -360,12 +307,12 @@ I will present an introduction to systematic and scoping reviews, including:
 
 <!--- -->
 
-###### **October 15, 2025, 12:30 - 1:30 pm -- [Kamila Cygan-Rehm](https://sites.google.com/view/kamila-cygan-rehm) (TU Dresden)**
-Timing of School Entry and Personality Traits in Adulthood *(with Anton Barabasch and Andreas Leibing)*
+###### **November 12, 2025, 12:30 - 1:30 pm -- [Ruta Yemane](https://www.dezim-institut.de/en/employees/ruta-yemane/) (DeZIM-Institut)**
+The Power of Stereotypes and how they influence labour market outcomes *(with Susanne Veit and Johanna Hildebrandt)*
 <details>
   <summary>Abstract</summary>
   <p>
-This paper investigates the long-run consequences of a later school entry for personality traits. For identification, we exploit the statutory cutoff rules for school enrollment in Germany within a regression discontinuity design. We find that relatively older school starters have persistently lower levels of neuroticism in adulthood. This effect is entirely driven by women, which has important implications for gender gaps in the labor market, as women typically score significantly higher on neuroticism at all stages of life, which puts them at a disadvantage. Our results suggest that family decisions regarding compliance with enrollment cutoffs may have lasting implications for gender gaps in socio-emotional skills.
+In this paper, we draw on two key models of stereotyping, the Stereotype Content Model (SCM) and the Agency-Beliefs-Communion (ABC) to study whether stereotypes associated to ethnic minorities predict discrimination in hiring in the German labor market. In study 1, we examined the content of the stereotypes that Germans ascribe to 38 ethnic minorities, drawing on a large-scale online survey (N=2,300). We instructed respondents to rate ethnic minorities with respect to different adjectives reflecting the warmth, competence/agency, and progressive beliefs dimensions of the SCM and ABC model. In study 2, we used the group-level ethnic stereotypes found in study 1 to predict differences in employer responses to job applications. We drew on a large-scale field experiment on hiring discrimination, a so-called correspondence test, conducted in Germany (N=2,700 employer responses). The ethnic background of the fictitious job candidates was randomly varied in this field experiment, which allowed us to investigate how well ethnic stereotypes can explain ethnic hierarchies in hiring and which stereotype content dimensions mattered the most in employers’ evaluations. Overall, our results suggest that stereotypes about beliefs play a crucial role in the assessment of ethnic origin groups. Stereotypical progressiveness is the best predictor for ethnic discrimination in real-world hiring decisions. Interestingly, progressive beliefs are also the strongest predictor of perceived similarity to the Germany host society. By contrast, competence/agency and warmth stereotypes fail to predict hiring discrimination.
   </p>
 </details>
 
@@ -373,12 +320,64 @@ This paper investigates the long-run consequences of a later school entry for pe
 
 <!--- -->
 
-###### **October 8, 2025, 12:30 - 1:30 pm -- [Regina Riphahn](https://www.empiricalecon.rw.fau.de/team/prof-regina-t-riphahn-ph-d/) (FAU Erlangen-Nürnberg)** [Special Brown Bag]{.paper-status}
-Occupational recognition of refugees: Effects on labor market outcomes, remittances, and life satisfaction *(with Selina Gangl and Matthias Collischon)*
+###### **November 26, 2025, 12:30 - 1:30 pm -- [Alexander Bertermann](https://www.ifo.de/en/bertermann-a) (ifo Institut)**
+Growing Up with Disasters: Early Memories and the Origins of Patience
 <details>
   <summary>Abstract</summary>
   <p>
-Many high-income economies strive to integrate recently immigrated refugees and asylum-seekers into their labor markets. We contribute to the discussion of relevant policy tools and use rich survey data that are matched to precise administrative records on refugee immigrants to Germany. We study the impact of occupational recognition decisions on refugee outcomes. Applying a difference-in-differences design with person-specific fixed effects, we find that those who benefit from occupational recognition are more likely to be employed, earn higher wages, have higher life satisfaction, and transfer higher remittances to their home countries than individuals who never (or later) apply for occupational recognition. In future work, we will employ event study designs to examine the development of effects over time and offer additional details on relevant mechanisms.
+This paper examines the long-term impact of childhood exposure to aggregate shocks on intertemporal decision-making. Drawing on survey data from 80,000 individuals in 76 countries and exploiting within-country, cross-cohort variation in exposure to natural and man-made disasters, I show that such shocks during childhood significantly reduce patience in adulthood. The effects are concentrated during adolescence, highlighting the importance of this developmental stage in the formation of time preferences. Evidence from migrant subsamples helps isolate psychological mechanisms from material hardship, pointing to heightened perceived future uncertainty as the primary channel. Overall, these findings demonstrate that childhood exposure to instability has lasting effects on adult time preferences.
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **December 10, 2025, 12:30 - 1:30 pm -- [Nhat An Trinh](https://natrinh.github.io/) (WZB)**
+Unequal Estate Division for Wealth Perpetuation: Portfolios, Primogeniture, and Patrilineality *(with Daria Tisch and Manuel Schechtl)*
+<details>
+  <summary>Abstract</summary>
+  <p>
+While inequalities in inter-vivos gifts and bequests between families are widely recognized as key drivers of wealth inequality, less is known about the unequal transmission of wealth within families. This study addresses this gap by asking: (1) To what extent are estates unequally divided? (2) How do estate portfolios, primogeniture, and patrilineality shape unequal estate division? (3) What is the impact of unequal estate division on inheritance inequality? Analyzing administrative data from the German inheritance and gift tax register (2007–2020), we find that 38 percent of estates are unequally divided between children. Unequal division is most pronounced at the top of the distribution and when business assets dominate the estate. Sons benefit rather than firstborn children, reflecting patrilineal practices. Overall inheritance inequality would be reduced by 8 percent if estates were divided equally. These findings shed novel light on how the family generates inequalities both within and across generations.
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **January 7, 2026, 12:30 - 1:30 pm -- [Elena Matheny](https://www.wiwi.europa-uni.de/de/professuren/vwl-angewandte-mikrooekonomie/team/wissenschaftliche-mitarbeitende/elena-matheny/index.html) (European University Viadrina)**
+Conditional Permanent Residency and Refugee Integration: Evidence from Germany's 2016 Reform
+<details>
+  <summary>Abstract</summary>
+  <p>
+This study examines the 2016 reform of Germany's Residence Act that intended to foster refugee integration by extending the waiting period for permanent residency from three to five years and introducing requirements, such as proficiency in German and partial financial independence. Using data from the German Socio-Economic Panel (SOEP), we employ a difference-in-differences design to analyse employment and full-time employment trends among refugees. Results show that the reform did not accelerate take-up rates of either overall or full-time employment. However, administrative data from the German Central Register of Foreign Nationals reveals that after the reform permanent residency acquisition rates significantly declined. The findings call into question the efficacy of conditional residency policies in fostering labour market integration.
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **~~January 21, 2026, 12:30 - 1:30 pm -- [Dimitria Freitas](https://sites.google.com/view/dimitriafreitas/) (TU Dresden)~~** [Cancelled]{.paper-status .muted}
+The Effect of Public Sector Relocations on Regional Development in Germany
+<details>
+  <summary>Abstract</summary>
+  <p>
+Regional economic disparities within countries have become increasingly large, often surpassing the disparities observed between countries. To address regional inequality, governments have been turning away from standard subsidies and are experimenting with public employment reallocation as a place-based policy. This paper estimates the causal effect of public employment reallocation on local labor markets. I study the Heimatstrategie, which relocates around 3,000 public sector jobs from Munich to economically lagging regions in Bavaria, Germany. Using novel data on 60 agency relocations between 2015 and 2025, I exploit the government’s quantitative selection criteria for receiving municipalities and implement a long-differences design comparing treated Bavarian municipalities to Mahalanobis-matched control municipalities in other German states. My estimates show that relocations increased private sector employment shares by up to 2.3%, reduced unemployment rates by up to 11.9%, and increased local population by up to 1.6% without harming sending locations. These results correspond to a public-to-private jobs multiplier of 1.08. To assess general equilibrium effects of the relocation program, I implement a quantitative spatial model with a two-sector (public and private) framework, showing modest increases in amenities through the relocation counterfactual and negligible welfare effects.
+  </p>
+</details>
+
+<div style="margin-bottom: 1rem;"></div>
+
+<!--- -->
+
+###### **February 4, 2026, 12:30 - 1:30 pm -- [Cara Ebert](https://cara-ebert.github.io/) (RWI Essen)**
+Improving Migration Outcomes: A Mentoring Experiment and its Network Effects in Senegal *(with Bernd Beber, Zara Riaz and Juni Singh)*
+<details>
+  <summary>Abstract</summary>
+  <p>
+In this paper we study the effectiveness of a randomized migration mentoring program, and the role of network embeddedness at origin, for migration decisions and outcomes in rural Senegal. The mentoring program improves job expectations when migrating, migration experiences, and economic outcomes. When the mentoring is attended by randomly assigned migrant from the origin village, positive expectations and experiences from migrating cease, but economic impacts remain.
   </p>
 </details>
 
