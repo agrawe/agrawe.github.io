@@ -121,7 +121,7 @@ Using longitudinal SOEP data linked to subnational indicators of these forms of 
 
 <!--- -->
 
-###### **October 28, 2026, 12:30 - 1:30 pm -- [Cecilia Garcia-Penalosa](https://sites.google.com/view/ceciliagarciapenalosa) (Aix-Marseille School of Economics)** [Special Brown Bag]{.paper-status}
+###### **October 28, 2026, 12:30 - 1:30 pm -- [Cecilia García Peñalosa](https://sites.google.com/view/ceciliagarciapenalosa) (Aix-Marseille School of Economics)** [Special Brown Bag]{.paper-status}
 Gender Gaps in the Urban Wage Premium (with Kenza Elass and Christian Schluter)
 <details>
   <summary>Abstract</summary>
