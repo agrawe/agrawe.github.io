@@ -135,11 +135,11 @@ tbd
 <!--- -->
 
 ###### **February 10, 2027, 12:30 - 1:30 pm -- [Juan Palomino](https://sites.google.com/site/juancpalomino/home) (Universidad Complutense Madrid)**
-tbd
+New technologies and the rise of wage inequality
 <details>
   <summary>Abstract</summary>
   <p>
-tbd
+Technological change fuels economic growth, but its impact on wage inequality remains contested. This study presents a unified empirical framework that isolates the effects of new technologies such as automation and AI on the entire wage distribution. We develop a continuous and task-sensitive automation index and propose a distributional counterfactual-based method. Applying the approach to Spanish micro-data for 2000-2019 and instrumenting technology variables, we find automation to be a key driver of inequality: without task displacement the Gini coefficient would be 21.5% lower and significant wage shares would shift from the top 10% towards middle and bottom groups. Automation is found to barely affect the gender gap in the period studied, yet to widen the education premium. Like automation, AI exposure increases inequality, although the mechanisms to impact wages differ: automation tends to negatively impact wages in the middle of the distribution, while AI tends to increase wages at the top. Trade, offshorability, educational attainment, employment rates and mark-ups play secondary, period specific roles. The results can inform policies on skill formation and inclusive innovation.
   </p>
 </details>
 </details>
