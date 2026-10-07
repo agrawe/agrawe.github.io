@@ -180,9 +180,9 @@
 \vspace{0.5ex}
 }
 
-% Coauthor link (uncolored, underlined)
+% Coauthor link (uncolored)
 %	#1 URL
 % 	#2 name
 \newcommand{\coauthor}[2]{%
-{\hypersetup{urlcolor=black}\href{#1}{\underline{#2}}}%
+{\hypersetup{urlcolor=black}\href{#1}{#2}}%
 }

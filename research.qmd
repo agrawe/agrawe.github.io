@@ -37,7 +37,7 @@ The findings show that educational policies have effects beyond those directly a
 ::: {.paper}
 [Distant Crises, Close Consequences: The Effects of Crises Abroad]{.paper-title}
 
-[with Dilasa Karakaya]{.paper-authors}
+[with [Dilasa Karakaya](https://www.wzb.eu/en/persons/dilasa-karakaya)]{.paper-authors}
 :::
 
 :::
