@@ -9,10 +9,6 @@ website:
   title: "Alexander Grawe"
   favicon: "/files/favicon-32x32.png"
   search: false
-  google-analytics: 
-    tracking-id: "G-ZRYLHTQ3PF"
-    storage: none
-    
 
   navbar:
     left:
@@ -50,6 +46,9 @@ format:
     css: styles.css
     toc: false
     page-layout: full
+    include-after-body:
+      text: |
+        <script data-goatcounter="https://agrawe.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 
 
 
