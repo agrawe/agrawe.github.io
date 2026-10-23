@@ -69,7 +69,7 @@ Using longitudinal SOEP data linked to subnational indicators of these forms of 
 
 <!--- -->
 
-###### **November 18, 2026, 12:30 - 1:30 pm -- [Martin Dybdahl](https://martindybdahl.com/) (European University Institute)**
+###### **November 25, 2026, 12:30 - 1:30 pm -- [Martin Dybdahl](https://martindybdahl.com/) (European University Institute)** [Moved from November 18]{.paper-status}
 tbd
 <details>
   <summary>Abstract</summary>
