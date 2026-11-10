@@ -70,11 +70,11 @@ Using longitudinal SOEP data linked to subnational indicators of these forms of 
 <!--- -->
 
 ###### **November 25, 2026, 12:30 - 1:30 pm -- [Martin Dybdahl](https://martindybdahl.com/) (European University Institute)** [Moved from November 18]{.paper-status}
-tbd
+No Horizontal Without the Vertical: Educational cleavages by field, level and period in German party support
 <details>
   <summary>Abstract</summary>
   <p>
-tbd
+Graduates of fields that teach cultural and communicative skills are more likely to support green, alternative and libertarian parties. Hooghe, Marks, and Kamphorst (2024) argue that field shapes vote choice independently of education level. Their German evidence comes from the Socio-Economic Panel: enrollment in higher education raises support for the Greens, particularly in cultural and communicative fields. I reappraise and extend their German analysis with the same panel from 1984 to 2025. Their main finding holds with five additional years of data. Three results qualify it. First, their German and Dutch analyses score science differently. Scored consistently, the gap between fields shrinks by about two-fifths, while the overall effect of enrolment is unchanged. Second, the effect is not stable over time. It is large in the mid-1990s and in the 2020s and close to zero in the years between, a pattern that follows the rise of the Greens more closely than time spent studying. Third, field does not act independently of level. I compare university and vocational graduates in the same fields before and after their degree. Within two years of graduating, university graduates in cultural and communicative fields move toward the Greens and toward parties that are more liberal on culture and more open on immigration. Vocational graduates in the same fields do not, and they move the other way on immigration. How much a field matters among university graduates depends on how medicine is scored; the difference between university and vocational graduates in the same fields does not. The cultural content of a field moves party support when it comes with a university degree. For those trained in vocational training, the same content does not, so field and level belong in the same model.
   </p>
 </details>
 
